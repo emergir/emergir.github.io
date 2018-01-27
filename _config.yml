@@ -8,7 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "pt-BT"
 remote_theme             : "mmistakes/minimal-mistakes"
 title                    : "Emergir"
 title_separator          : "-"
@@ -21,7 +21,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "facebook" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -52,8 +52,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true #, false (default)
+search_full_content      : true #, false (default)
 
 # SEO Related
 google_site_verification :
@@ -63,18 +63,20 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "emergir_co"
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+  username               : "emergir.co"
+  app_id                 : "emergir.co"
+  publisher              : "https://www.facebook.com/emergir.co/"
+og_image                 : "/img/emergir.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Emergir"
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://www.facebook.com/emergir.co/"
+    - "https://twitter.com/emergir_co"
 
 # Analytics
 analytics:
