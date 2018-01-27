@@ -87,18 +87,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  name             : "Emergir"
+  avatar           : "/img/emergir_round.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Adaptação à Complexidade"
+  location         : # "Somewhere"
+  email            : "emergir.co@gmail.com"
+  uri              : "emergir.co"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/emergir.co/"
   foursquare       :
   github           :
   gitlab           :
@@ -108,16 +108,16 @@ author:
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
-  soundcloud       :
+  soundcloud       : "https://soundcloud.com/user-123224365"
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/emergir_co"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  youtube          : "https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw"
+  
 
 # Reading Files
 include:
