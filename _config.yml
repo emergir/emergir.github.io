@@ -92,7 +92,7 @@ author:
   bio              : "Adaptação à Complexidade"
   location         : # "Somewhere"
   email            : "emergir.co@gmail.com"
-  uri              : "emergir.co"
+  uri              : "https://www.emergir.co/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
