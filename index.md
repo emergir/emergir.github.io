@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.3"
-  overlay_image: /img/bckgrnd/teste.gif
+  overlay_image: /img/teste.gif
   cta_url: "/flocking/"
   cta_label: "Como assim?"
   caption:
