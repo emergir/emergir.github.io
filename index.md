@@ -12,7 +12,7 @@ excerpt: 'Quando os elementos de um sistema se organizam de determinadas maneira
 
 intro:
   - image_path:
-    excerpt: '"A co-criação abundante que emerge da livre interação de nós diversificados sustenta a evolução, pois para evoluir é necessário interagir com o diverso, com o diferente."<br /> <small><a href="https://www.organizacaoprospera.com/sobre/">Organização Próspera</a></small><br />'
+    excerpt: '"A co-criação abundante que emerge da livre interação de nós diversificados sustenta a evolução, pois para evoluir é necessário interagir com o diverso, com o diferente." Teste<br /> <small><a href="https://www.organizacaoprospera.com/sobre/">Organização Próspera</a></small><br />'
 
 feature_row0:
   - image_path: /img/emergir.gif
