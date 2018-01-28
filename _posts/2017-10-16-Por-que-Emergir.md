@@ -80,7 +80,7 @@ A adoção de um novo paradigma conceitual é um processo que acontece em difere
 
 Como descrito acima, a emergência é o processo pelo qual sistemas complexos formam padrões macro de organização (através de interações de escala micro) que são maiores do que a soma dos comportamentos individuais de seus elementos. Em um gif...
 
-![Emergence](https://blog.ncase.me/content/images/2017/05/animation.gif)
+![Emergence](http://blog.ncase.me/content/images/2017/05/animation.gif)
 
 Neste excelente exemplo do que é a emergência (obrigado [Nicky](https://blog.ncase.me/), observa-se como um novo padrão de organização macro (movimentação da esquerda para a direita) surge do simples comportamento das partes individuais (movimentação vertical). E, mais importante, como este novo padrão é fundamentalmente diferente do padrão de organização micro. Para uma explicação ainda mais completa (e um pouco mais longa), assista ao fantástico vídeo feito pelo canal [Kurzgesagt](https://kurzgesagt.org/).
 
