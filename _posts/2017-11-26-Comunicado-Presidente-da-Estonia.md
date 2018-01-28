@@ -2,8 +2,8 @@
 title: "Presidente da Estónia - Comunicado Público"
 permalink: /estonia_comunicado/
 header:
-  image: /img/postagens/estonia/Flag_of_Estonia.jpg
-  teaser: /img/postagens/estonia/Flag_of_Estonia.jpg
+  image: /img/postagens/estonia/Flag_of_Estonia.png
+  teaser: /img/postagens/estonia/Flag_of_Estonia.png
 categories:
   - Artigos
 tags:
