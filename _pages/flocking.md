@@ -3,4 +3,6 @@ title: "Flocking"
 permalink: /flocking/
 ---
 
-<iframe height="600" width="940" src="/flocking.html" frameborder="0"></iframe>
+<iframe
+  src="/flocking.html"
+  width="940" height="600" frameborder="0"></iframe>

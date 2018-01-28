@@ -9,5 +9,5 @@ main:
     url: /cursos/
   - title: "Sobre/Contato"
     url: /sobre/
-  - title: "Flocking"
-    url: /flocking/
+#  - title: "Flocking"
+#    url: /flocking/
