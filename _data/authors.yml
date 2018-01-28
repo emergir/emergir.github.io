@@ -1,0 +1,13 @@
+# /_data/authors.yml
+
+Danilo Vaz:
+  name: "Danilo Vaz"
+  uri: "https://dnllvrvz.github.io"
+  email: "dnllvrvz@gmail.com"
+  bio: "Copy and paste creator. Complex systems geek. Commons lover. Open-source advocate. Aspiring designer. Human"
+  avatar: "img/portrait.jpg"
+
+Rádio Emergir:
+  name: "Rádio Emergir"
+  bio: "Explorações e conversas sobre inovações científicas, sociais e culturais que inspiram e criam um mundo de maior resiliência para a espécie humana e os sistemas dos quais ela faz parte."
+  avatar: "img/radio.png"
