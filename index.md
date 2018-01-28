@@ -5,7 +5,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.3"
   overlay_image: /img/bckgrnd/emergencia.jpeg
-  cta_url: "https://www.emergir.co/porque_emergir/#emerg%C3%AAncia"
+  cta_url: "/flocking/"
   cta_label: "Como assim?"
   caption:
 excerpt: 'Quando os elementos de um sistema se organizam de determinadas maneiras, forma-se algo novo que não pertence a nenhuma das partes. Chamamos isso de organização recém-combinada, ou fenômeno emergente.'
