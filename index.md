@@ -5,14 +5,14 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.3"
   overlay_image: /img/bckgrnd/emergencia.jpeg
-  cta_url: "/flocking/"
+  cta_url: "https://www.emergir.co/porque_emergir/#emerg%C3%AAncia"
   cta_label: "Como assim?"
   caption:
 excerpt: 'Quando os elementos de um sistema se organizam de determinadas maneiras, forma-se algo novo que não pertence a nenhuma das partes. Chamamos isso de organização recém-combinada, ou fenômeno emergente.'
 
 intro:
   - image_path:
-    excerpt: '"A co-criação abundante que emerge da livre interação de nós diversificados sustenta a evolução, pois para evoluir é necessário interagir com o diverso, com o diferente." Teste<br /> <small><a href="https://www.organizacaoprospera.com/sobre/">Organização Próspera</a></small><br />'
+    excerpt: 'Conecte-se: [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--youtube} [<i class="fab fa-envelope"></i> E-mail](mailto:emergir.co@gmail.com){: .btn .btn--primary}'
 
 feature_row0:
   - image_path: /img/emergir.gif

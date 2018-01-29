@@ -7,7 +7,7 @@ main:
     url: /radio/
   - title: "Cursos"
     url: /cursos/
-  - title: "Sobre/Contato"
+  - title: "Sobre"
     url: /sobre/
 #  - title: "Flocking"
 #    url: /flocking/
