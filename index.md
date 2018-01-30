@@ -12,7 +12,7 @@ excerpt: 'Quando os elementos de um sistema se organizam de determinadas maneira
 
 intro:
   - image_path:
-    excerpt: 'Conecte-se: [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} [<i class="fab envelope"></i>E-mail](mailto:emergir.co@gmail.com){: .btn .btn--success}'
+    excerpt: 'Conecte-se: [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} [E-mail](mailto:emergir.co@gmail.com){: .btn .btn--success}'
 
 feature_row0:
   - image_path: /img/emergir.gif
