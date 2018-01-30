@@ -17,7 +17,7 @@ description              : "Adaptação à Complexidade"
 url                      : "https://www.emergir.co"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/img/emergir_round.png"
+teaser                   : "/img/bckgrnd/emergencia.jpeg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
