@@ -25,7 +25,7 @@ feature_row:
 
   - image_path: /img/bckgrnd/textos.png
     title: "Artigos"
-    excerpt: "Textos explorativos sobre o paradigma **filosófico-científico** da complexidade."
+    excerpt: "Textos explorativos relacionados ao paradigma filosófico-científico da Complexidade."
     url: "/artigos/"
     btn_label: "Explorar"
     btn_class: "btn--primary"
@@ -39,7 +39,7 @@ feature_row:
 
   - image_path: /img/bckgrnd/cursos.png
     title: "Cursos"
-    excerpt: "Vídeos **abertos** sobre modelos cognitivos, teorias e tecnologias para um mundo hyperconectado."
+    excerpt: "Vídeos sobre modelos cognitivos, teorias e tecnologias para um mundo de interdependências."
     url: "/cursos/"
     btn_label: "Explorar"
     btn_class: "btn--primary"
