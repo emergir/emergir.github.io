@@ -62,6 +62,4 @@ feature_row1:
 
 {% include feature_row id="feature_row0" type="left" %}
 
-# Sistemas Complexos
-
 {% include feature_row id="feature_row1" type="center" %}
