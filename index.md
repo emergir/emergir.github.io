@@ -44,6 +44,11 @@ feature_row:
     btn_label: "Explorar"
     btn_class: "btn--primary"
 
+feature_row1:
+
+  - image_path: /img/Complex_systems_organizational_map.jpeg
+    excerpt: "Fonte: Wikipedia"
+
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -56,3 +61,7 @@ feature_row:
 # Emergência e Pensamento Sistêmico
 
 {% include feature_row id="feature_row0" type="left" %}
+
+# Sistemas Complexos
+
+{% include feature_row id="feature_row1" type="center" %}
