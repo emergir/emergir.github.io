@@ -8,7 +8,7 @@ header:
   cta_url: "https://www.emergir.co/porque_emergir/#emerg%C3%AAncia"
   cta_label: "Como assim?"
   caption:
-excerpt: 'Quando os elementos de um sistema se organizam de determinadas maneiras, forma-se algo novo que não pertence a nenhuma das partes. Chamamos isso de organização recém-combinada, ou fenômeno emergente.'
+excerpt: 'Emergência refere-se ao "surgimento de estruturas, padrões e propriedades novas e coerentes durante o processo de auto-organização em sistemas complexos" *Jeffrey Goldstein (1999: 49)*'
 
 intro:
   - image_path:
