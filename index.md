@@ -5,14 +5,14 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.3"
   overlay_image: /img/bckgrnd/emergencia.jpeg
-  cta_url: "https://www.youtube.com/embed/rWJ4O70-Kr4"
+  cta_url: "https://www.youtube.com/watch?v=rWJ4O70-Kr4"
   cta_label: "Como assim?"
   caption:
 excerpt: 'Emergência refere-se ao "surgimento de estruturas, padrões e propriedades novas e coerentes durante o processo de auto-organização em sistemas complexos" *Jeffrey Goldstein (1999: 49)*'
 
 intro:
   - image_path:
-    excerpt: 'Sinta-se à vontade para interagir [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp; [<i class="fas fa-exchange-alt"></i> Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--success}'
+    excerpt: [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp; [<i class="fas fa-exchange-alt"></i> Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--success}'
 
 feature_row:
 
