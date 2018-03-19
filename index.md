@@ -15,7 +15,7 @@ intro:
     excerpt: '[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp; [Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--success}'
 
 feature_row0:
-  - image_path: /img/emergir.gif
+  - image_path: /img/Complex_systems_organizational_map.jpeg
     title: " "
     excerpt: <iframe width="560" height="315" src="https://www.youtube.com/embed/rWJ4O70-Kr4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
     btn_label: false
@@ -61,5 +61,3 @@ feature_row1:
 # Emergência e Pensamento Sistêmico
 
 {% include feature_row id="feature_row0" type="left" %}
-
-{% include feature_row id="feature_row1" type="center" %}
