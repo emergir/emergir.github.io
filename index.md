@@ -53,7 +53,7 @@ feature_row1:
 
 {% include feature_row id="intro" type="center" %}
 
-## Conteúdo do Portal
+## Conteúdo
 &nbsp;
 
 {% include feature_row %}
