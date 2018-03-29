@@ -1,5 +1,5 @@
 ---
-title: "O que eu faço enquanto o mundo se auto-organiza?"
+title: "O que eu faço enquanto o mundo se Auto-Organiza?"
 permalink: /teste/
 header:
   image: /img/postagens/Amanda/gratiluz.jpg
