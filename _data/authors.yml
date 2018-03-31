@@ -1,7 +1,7 @@
 # /_data/authors.yml
 
 Danilo Vaz:
-  name: "Danilo Vaz"
+  name: "Danilo Oliveira Vaz"
   uri: "https://dnllvrvz.github.io"
   email: "dnllvrvz@gmail.com"
   bio: "Criador Ctrl+C Ctrl+V. Geek de Sistemas Complexos. Apoiador das Commons. Defensor do Open-source. Designer aspirante. Humano"
@@ -13,5 +13,7 @@ Rádio Emergir:
   avatar: "img/radio.png"
 
 Amanda Alface:
-  name: "Amanda Alface"
-  bio: "Luz"
+  name: "Amanda Pinheiro Alface"
+  bio: "Estudante de economia e controladoria na FEA-RP/USP, terapeuta holística e co-criadora do mundo novo. Gosta de sonhar grande, comunicar e estar presente na transição, a serviço do amor."
+  avatar: "img/portrait.jpg"
+  facebook: "amanda.alface"
