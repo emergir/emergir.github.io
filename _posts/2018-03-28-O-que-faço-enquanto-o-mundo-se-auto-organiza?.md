@@ -1,9 +1,9 @@
 ---
 title: "O que eu faço enquanto o mundo se Auto-Organiza?"
-permalink: /teste/
+permalink: /oqueeufacoenquantoomundoseautoorganiza/
 header:
-  image: /img/postagens/Amanda/gratiluz.jpg
-  teaser: /img/postagens/Amanda/gratiluz.jpg
+  image: /img/postagens/Amanda/gratiluz.jpeg
+  teaser: /img/postagens/Amanda/gratiluz.jpeg
 categories:
   - Artigos
 tags:
