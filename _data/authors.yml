@@ -5,7 +5,7 @@ Danilo Vaz:
   uri: "https://dnllvrvz.github.io"
   email: "dnllvrvz@gmail.com"
   bio: "Criador Ctrl+C Ctrl+V. Geek de Sistemas Complexos. Apoiador das Commons. Defensor do Open-source. Designer aspirante. Humano"
-  avatar: "img/portrait.jpg"
+  avatar: "img/autores/danilo.jpg"
 
 Rádio Emergir:
   name: "Rádio Emergir"
@@ -15,6 +15,13 @@ Rádio Emergir:
 Amanda Alface:
   name: "Amanda Pinheiro Alface"
   bio: "Estudante de economia e controladoria na FEA-RP/USP, terapeuta holística e co-criadora do mundo novo. Gosta de sonhar grande, comunicar e estar presente na transição, a serviço do amor."
-  avatar: "img/alface.jpg"
+  avatar: "img/autores/alface.jpg"
   facebook: "amanda.alface"
   instagram: "amandaalface"
+
+Daniel Wahl:
+  name: "Daniel Christian Wahl"
+  bio: "Dr. Daniel C. Wahl, biologist, holistic scientist, PhD in design for sustainability - author of 'Designing Regenerative Cultures'."
+  uri: "https://medium.com/@designforsustainability"
+  email: "designforsustainability@gmail.com"
+  avatar: "img/autores/daniel.jpeg"
