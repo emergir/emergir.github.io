@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: archive
 permalink: /artigos/
 title: "Artigos"
 author_profile: true
