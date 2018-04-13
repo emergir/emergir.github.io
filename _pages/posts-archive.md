@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: collection
 permalink: /artigos/
 title: "Artigos"
 author_profile: true
