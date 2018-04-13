@@ -7,3 +7,5 @@ header:
   overlay_image: img/bckgrnd/nao-linearidade.jpg
 entries_layout: grid
 ---
+
+# Categorias

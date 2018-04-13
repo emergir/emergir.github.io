@@ -32,6 +32,7 @@ Brian Goodwin explica: "As propriedades emergentes são tipos inesperados de ord
 Este insight tem implicações importantes para qualquer investigação de como a inovação transformadora pode facilitar a cocriação de uma cultura regenerativa. Ele sugere que, trabalhando para a saúde, bem-estar e resiliência de nossas comunidades, economias e ecossistemas, teremos sempre que estar preparados para o que surge de inesperado e novo da complexa dinâmica que caracteriza esses sistemas.
 
 **Q. Como facilitamos a emergência de propriedades sistêmicas positivas e salutogênicas (de suporte à saúde) e desencorajamos o surgimento de propriedades sistêmicas autodestrutivas e patológicas?**
+
 Algumas propriedades como saúde, resiliência e bem-estar podem ser consideradas como propriedades emergentes desejáveis, outras podem ser consideradas indesejáveis: por exemplo, fragilidade, colapso súbito de funções vitais e impactos negativos em todos ou alguns componentes do sistema.
 
 **Q. Se os sistemas dos quais o nosso futuro depende são fundamentalmente imprevisíveis, como aprendemos a participar adequadamente?**
