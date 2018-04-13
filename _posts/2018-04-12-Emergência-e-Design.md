@@ -7,9 +7,10 @@ header:
 categories:
   - Artigos
 tags:
-  - Auto-organização
-  - Emergência
   - Design
+  - Emergência
+  - Resiliência
+  - Sustentabilidade
 author:
   Daniel Wahl
 ---
