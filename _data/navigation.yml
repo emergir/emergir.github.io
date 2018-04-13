@@ -2,7 +2,7 @@
 main:
 
   - title: "Artigos"
-    url: "/artigos/"
+    url: "/categorias/Artigos/"
   - title: "Rádio Emergir"
     url: /radio/
   - title: "Cursos"
