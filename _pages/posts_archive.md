@@ -3,6 +3,7 @@ layout: archive
 permalink: /artigos/
 title: "Artigos"
 author_profile: true
+entries_layout: grid
 header:
   overlay_image: img/bckgrnd/nao-linearidade.jpg
 ---
