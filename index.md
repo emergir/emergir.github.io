@@ -12,7 +12,8 @@ excerpt: 'Emergir refere-se ao "surgimento de estruturas, padrões e propriedade
 
 intro:
   - image_path:
-    excerpt: '[<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp; [<i class="fas fa-exchange-alt"></i> Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--success}'
+    excerpt: '[<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
+    [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp; [<i class="fas fa-exchange-alt"></i> Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--success}'
 
 feature_row:
 
