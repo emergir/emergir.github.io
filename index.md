@@ -20,7 +20,7 @@ feature_row:
   - image_path: /img/bckgrnd/textos.png
     title: "Artigos"
     excerpt: "Textos explorativos relacionados ao paradigma filosófico-científico da Complexidade."
-    url: "https://www.emergir.co/categorias/#artigos"
+    url: "/artigos/"
     btn_label: "Explorar"
     btn_class: "btn--primary"
 
