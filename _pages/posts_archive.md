@@ -16,4 +16,4 @@ feature_row:
 
 # {% include group-by-array collection=site.posts field="categories" %}
 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="feature_row" type="left" %}
