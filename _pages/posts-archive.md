@@ -1,7 +1,7 @@
 ---
 title: "Artigos"
 layout: category
-permalink: /categorias/Artigos/
+permalink: /categorias/artigos/
 author_profile: true
 header:
   overlay_image: img/bckgrnd/nao-linearidade.jpg
