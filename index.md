@@ -1,5 +1,5 @@
 ---
-title: "Emergir para se Adaptar à Complexidade"
+title: "Adaptação à Complexidade"
 layout: splash
 header:
   overlay_color: "#5e616c"
@@ -8,7 +8,7 @@ header:
   cta_url: "https://www.youtube.com/watch?v=rWJ4O70-Kr4"
   cta_label: "Como assim?"
   caption:
-excerpt: '"Emergência refere-se ao "surgimento de estruturas, padrões e propriedades novas e coerentes durante o processo de auto-organização em sistemas complexos" [*Jeffrey Goldstein*](http://www.anecdote.com/pdfs/papers/EmergenceAsAConsutructIssue1_1_3.pdf)'
+excerpt: 'Emergência refere-se ao "surgimento de estruturas, padrões e propriedades novas e coerentes durante o processo de auto-organização em sistemas complexos" [*Jeffrey Goldstein*](http://www.anecdote.com/pdfs/papers/EmergenceAsAConsutructIssue1_1_3.pdf)'
 
 intro:
   - image_path:
