@@ -4,6 +4,7 @@ permalink: /sobre/
 title: "Sobre o Emergir"
 header:
   overlay_image: img/bckgrnd/abelha.jpg
+  teaser: img/bckgrnd/abelha.jpg
 toc: true
 toc_label: "Navegando"
 toc_icon: "compass"
