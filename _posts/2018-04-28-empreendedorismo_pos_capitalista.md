@@ -17,7 +17,6 @@ author:
 
 O autor e pesquisador sobre empreendedorismo inclusivo Boyd Derek Cohen escreveu um artigo para a revista digital [Evonomics](https://evonomics.com/) sintetizando alguns dos pontos em seu livro [*Post-Capitalist Entrepreneurship: Startups for the 99%*](https://www.amazon.com/Post-Capitalist-Entrepreneurship-Startups-Boyd-Cohen/dp/1138713392). Dada a relevância do artigo para o momento em que vivemos, o Emergir fez a sua tradução na íntegra, com a devida autorização do autor.
 Para acessar a versão original, clique neste [link](https://evonomics.com/post-capitalism-entrepreneurship/?utm_source=facebook&utm_campaign=organic).
-___
 
 > Rumo a um novo modelo econômico urbano, colaborativo e local, mas globalmente interconectado, de prosperidade compartilhada.
 
