@@ -15,19 +15,15 @@ author:
   Boyd Cohen
 ---
 
-### Rumo a um novo modelo econômico urbano, colaborativo e local, mas globalmente interconectado, de prosperidade compartilhada.
-
+O autor e pesquisador sobre empreendedorismo inclusivo Boyd Derek Cohen escreveu um artigo para a revista digital [Evonomics](https://evonomics.com/) sintetizando alguns dos pontos em seu livro [*Post-Capitalist Entrepreneurship: Startups for the 99%*](https://www.amazon.com/Post-Capitalist-Entrepreneurship-Startups-Boyd-Cohen/dp/1138713392). Dada a relevância do artigo para o momento em que vivemos, o Emergir fez a sua tradução na íntegra, com a devida autorização do autor.
+Para acessar a versão original, clique neste [link](https://evonomics.com/post-capitalism-entrepreneurship/?utm_source=facebook&utm_campaign=organic).
 ___
 
-O autor e pesquisador sobre empreendedorismo inclusive Boyd Derek Cohen escreveu um artigo para a revista digital [Evonomics](https://evonomics.com/) sintetizando alguns dos pontos em seu livro [*Post-Capitalist Entrepreneurship: Startups for the 99%*](https://www.amazon.com/Post-Capitalist-Entrepreneurship-Startups-Boyd-Cohen/dp/1138713392). Dada a relevância do artigo para o momento em que vivemos, o Emergir fez a sua tradução na íntegra, com a devida autorização do autor.
-Caso você queira conferir o artigo original, clique [aqui](https://evonomics.com/post-capitalism-entrepreneurship/?utm_source=facebook&utm_campaign=organic).
-___
+> Rumo a um novo modelo econômico urbano, colaborativo e local, mas globalmente interconectado, de prosperidade compartilhada.
 
 O [movimento Occupy](https://pt.wikipedia.org/wiki/Occupy_Wall_Street) foi talvez o primeiro a levantar uma consciência global sobre a crescente insatisfação com a economia capitalista baseada no mercado. Bancos grandes demais para fracassar, resgates do governo e aumento da desigualdade de renda provocaram a ira de milhões em todo o mundo. Desde então, os apelos por uma revisão do nosso paradigma econômico se tornaram mais altos. Um potencial enquadramento que ganhou seguidores é o pós-capitalismo, popularizado por Paul Mason em um livro de mesmo nome. O pós-capitalismo não é um retorno ao marxismo, mas, em vez disso, é impulsionado pelo entendimento de que uma terceira via que não é focada no controle pesado do governo, nem em giagntes proprietários que são apoiados por capital de risco e publicamente negociados. Em vez disso, uma economia pós-capitalista seria impulsionada mais por organizações coletivas, cooperativas ou até mesmo autônomas, frequentemente alavancando também moedas fiduciárias não-governamentais.
 
 No entanto, até o momento tem havido poucas discussões sobre o papel do empreendedorismo em uma economia pós-capitalista. Embora possa parecer um paradoxo discutir o empreendedorismo em uma economia pós-capitalista, argumento que isso é apenas porque temos uma visão estreita do que é empreendedorismo. Em [Empreendedorismo Pós-Capitalista (EPC)](https://www.amazon.com/Post-Capitalist-Entrepreneurship-Startups-Boyd-Cohen/dp/1138713392), destaco várias formas empreendedoras emergentes, incluindo produção em pares baseada em commons, cooperativas de plataforma, moedas alternativas e ofertas iniciais de moeda (ICOs) e organizações autônomas distribuídas com blockchain, entre outras.
-
-> Rumo a um novo modelo econômico urbano, colaborativo e local, mas globalmente interconectado, de prosperidade compartilhada.
 
 ## Governos Locais e Pós-Capitalismo
 
