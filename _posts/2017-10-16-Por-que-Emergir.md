@@ -140,7 +140,9 @@ This new “self” will be premised on envisioning the inherent unity of the hu
 
 Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
 
----
+## Gostou do que leu?
+
+Então participe das conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
 
 ## Referências
 
