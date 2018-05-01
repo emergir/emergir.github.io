@@ -2,8 +2,8 @@
 title: "Por que Emergir? E Pensamentos Sobre Como"
 permalink: /porque_emergir/
 header:
-  image: "/img/bckgrnd/evolucao_cultural.jpg"
-  teaser: "/img/bckgrnd/evolucao_cultural.jpg"
+  image: /img/postagens/pq_emergir/pq_emergir.jpg
+  teaser: /img/postagens/pq_emergir/pq_emergir.jpg
 categories:
   - Artigos
 tags:
