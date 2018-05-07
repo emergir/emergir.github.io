@@ -3,8 +3,8 @@ title: "Adaptação à Complexidade"
 layout: splash
 header:
   overlay_color: "#5e616c"
-  overlay_filter: "0.3"
-  overlay_image: /img/postagens/pq_emergir/emergencia.png
+  overlay_filter: "0.25"
+  overlay_image: /img/bckgrnd/emergencia.jpeg
   cta_url: "https://www.youtube.com/watch?v=rWJ4O70-Kr4"
   cta_label: "Como assim?"
   caption:
