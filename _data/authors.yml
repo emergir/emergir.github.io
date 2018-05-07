@@ -1,34 +1,34 @@
-# /_data/authors.yml
+# Authors
 
 Boyd Cohen:
-  name: "Boyd Derek Cohen"
-  uri: "https://boydcohen.impress.ly"
-  bio: "Ph.D. em Estratégia e Empreendedorismo pela Universidade do Colorado. Professor, pesquisador e participante de atividades de empreendedorismo sustentável em todo o mundo. Iniciou um número de empreendimentos sustentáveis em construção verde, TI verde e, mais recentemente, originação de carbono."
-  avatar: "img/autores/boyd.jpeg"
-  twitter: "boydcohen"
+  name        : "Boyd Derek Cohen"
+  uri         : "https://boydcohen.impress.ly"
+  bio         : "Ph.D. em Estratégia e Empreendedorismo pela Universidade do Colorado. Professor, pesquisador e participante de atividades de empreendedorismo sustentável em todo o mundo. Iniciou um número de empreendimentos sustentáveis em construção verde, TI verde e, mais recentemente, originação de carbono."
+  avatar      : "img/autores/boyd.jpeg"
+  twitter     : "boydcohen"
 
 Danilo Vaz:
-  name: "Danilo Oliveira Vaz"
-  uri: "https://dnllvrvz.github.io"
-  email: "dnllvrvz@gmail.com"
-  bio: "Criador Ctrl+C Ctrl+V. Geek de Sistemas Complexos. Apoiador das Commons. Defensor do Open-source. Designer aspirante. Humano"
-  avatar: "img/autores/danilo.jpg"
+  name        : "Danilo Oliveira Vaz"
+  uri         : "https://dnllvrvz.github.io"
+  email       : "dnllvrvz@gmail.com"
+  bio         : "Criador Ctrl+C Ctrl+V. Geek de Sistemas Complexos. Apoiador das Commons. Defensor do Open-source. Designer aspirante. Humano"
+  avatar      : "img/autores/danilo.jpg"
 
 Rádio Emergir:
-  name: "Rádio Emergir"
-  bio: "Explorações e conversas sobre inovações científicas, sociais e culturais que inspiram e criam um mundo de maior resiliência para a espécie humana e os sistemas dos quais ela faz parte."
-  avatar: "img/radio.png"
+  name        : "Rádio Emergir"
+  bio         : "Explorações e conversas sobre inovações científicas, sociais e culturais que inspiram e criam um mundo de maior resiliência para a espécie humana e os sistemas dos quais ela faz parte."
+  avatar      : "img/radio.png"
 
 Amanda Alface:
-  name: "Amanda Pinheiro Alface"
-  bio: "Estudante de economia e controladoria na FEA-RP/USP, terapeuta holística e co-criadora do mundo novo. Gosta de sonhar grande, comunicar e estar presente na transição, a serviço do amor."
-  avatar: "img/autores/alface.jpg"
-  facebook: "amanda.alface"
-  instagram: "amandaalface"
+  name        : "Amanda Pinheiro Alface"
+  bio         : "Estudante de economia e controladoria na FEA-RP/USP, terapeuta holística e co-criadora do mundo novo. Gosta de sonhar grande, comunicar e estar presente na transição, a serviço do amor."
+  avatar      : "img/autores/alface.jpg"
+  facebook    : "amanda.alface"
+  instagram   : "amandaalface"
 
 Daniel Wahl:
-  name: "Dr. Daniel C. Wahl"
-  bio: "Dr. Daniel C. Wahl, biólogo, cientista holístico, PhD em design para sustentabilidade - autor de "Designing Regenerative Cultures"."
-  uri: "https://medium.com/@designforsustainability"
-  email: "designforsustainability@gmail.com"
-  avatar: "img/autores/daniel.jpeg"
+  name        : "Dr. Daniel C. Wahl"
+  bio         : "Dr. Daniel C. Wahl, biólogo, cientista holístico, PhD em design para sustentabilidade - autor de "Designing Regenerative Cultures"."
+  uri         : "https://medium.com/@designforsustainability"
+  email       : "designforsustainability@gmail.com"
+  avatar      : "img/autores/daniel.jpeg"
