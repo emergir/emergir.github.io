@@ -2,8 +2,8 @@
 title: "Por que Emergir? E Pensamentos Sobre Como"
 permalink: /porque_emergir/
 header:
-  image: /img/postagens/pq_emergir/pq_emergir.jpg
-  teaser: /img/postagens/pq_emergir/pq_emergir.jpg
+  image: /img/postagens/pq_emergir/emergencia.png
+  teaser: /img/postagens/pq_emergir/emergencia.png
 categories:
   - Artigos
 tags:
