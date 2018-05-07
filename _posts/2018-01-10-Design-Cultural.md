@@ -193,6 +193,10 @@ Na manhã do dia 12 de Janeiro de 2018, o Instituto de Design Cultural teve sua 
 
 ![Sucesso](/img/postagens/design_cultural/sucesso.png)
 
+#### Gostou do que leu?
+
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram} 
+
 ## Referências
 
 [^1]: https://medium.com/disruptive-design/how-design-designs-us-part-1-6583a9b61b57

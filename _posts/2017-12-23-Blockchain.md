@@ -267,7 +267,10 @@ Caso você tenha gostado deste material e queira contribuir com o Emergir, segue
 | :---: | :---: |
 | ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) |
 
-___
+
+#### Gostou do que leu?
+
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
 
 ## Referências
 

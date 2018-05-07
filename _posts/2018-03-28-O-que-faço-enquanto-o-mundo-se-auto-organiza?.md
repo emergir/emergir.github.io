@@ -22,3 +22,8 @@ Consideremos essa transição como um grande projeto planetário, onde os seres 
 Qualquer desequilíbrio detectado nesse sistema é recebido como estímulo-solução pelos indivíduos conectados na consciência do grande evento. Não há espaço para desespero, medo ou apego àa antiga forma que esse mundo funcionava, os elemento apenas recebem os problemas como presentes pois sabem o que está acontecendo a nível macro. E sabem de verdade que seu papel é apenas preenchê-los com a solução. Pois bem, o silêncio, o estado de presença e aceitação do desequilíbrio e do caos como fator fundamental para reestabelecimento da ordem original desencadeia imediatamente processos neurológicos que se revelam e manifestam em forma de ideias, projetos e ações. Eis a nova realidade global, equilíbrio dinâmico, orgânico e paradoxalmente complexo e simples.
 
 Presença, autoconhecimento e observação sem dúvida são processos determinantes para acessar essa nova consciência, para permitir que o fluxo interno possa emergir, brotar e permear a nova realidade.
+
+---
+#### Gostou do que leu?
+
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram} 

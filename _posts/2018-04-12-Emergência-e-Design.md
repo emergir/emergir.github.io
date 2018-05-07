@@ -64,3 +64,9 @@ A mentalidade para a resiliência e a mentalidade para a totalidade sistêmica s
 **Q. Estamos prestando atenção à qualidade e velocidade da informação que flui através destes sistemas para permitir que os diferentes componentes aprendam com os circuitos de retroalimentação sistêmicos?**
 
 Ao prestar atenção a estas questões, nós podemos abraçar efetivamente o aparente paradoxo da emergência imprevisível e do design intencional para a saúde sistêmica e uma cultura regenerativa.
+
+---
+
+#### Gostou do que leu?
+
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}

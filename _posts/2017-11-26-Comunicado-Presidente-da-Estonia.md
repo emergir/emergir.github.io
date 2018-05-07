@@ -59,4 +59,6 @@ Para entender mais sobre como a Estónia têm se tornado um Estado Digital (com 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vzknLXQfnSM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
+#### Gostou do que leu?
+
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram} 

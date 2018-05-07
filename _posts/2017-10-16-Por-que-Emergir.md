@@ -138,11 +138,9 @@ Com tudo isso, espera-se que o Emergir seja uma fonte de informação relevante 
 > The post-capitalist, post-materialist societies of the future, thus, represent the emergence of not just a new form of civilization entirely — but a new form of human being, and a new way of looking at, and being in, the world.
 This new “self” will be premised on envisioning the inherent unity of the human species, the interdependence of humankind with nature, and a form of self-actualization based on safeguarding, exploring and nurturing that relationship, rather than exploiting it.[^14]
 
-Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
+#### Gostou do que leu?
 
-## Gostou do que leu?
-
-Então participe das conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
 
 ## Referências
 

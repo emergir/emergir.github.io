@@ -58,6 +58,12 @@ Estamos nos primórdios do que o blockchain pode significar para as cidades. Obv
 
 Suspeito que, no futuro, pelo menos o futuro que espero ver, vamos testemunhar cidades que abraçam tudo, desde moedas digitais locais, comunidades fabricantes de três camadas (em casa, nos bairros, por fab labs e produção flexível de manufatura em nível municipal), alguma forma de renda básica (talvez ligada a contribuições cívicas), esperançosamente moradia acessível para todos através de fundos comunitários e outras inovações habitacionais (por exemplo, a moradia [in-fill de Vancouver](https://thetyee.ca/News/2017/03/09/infillmap/)), plataformas de compartilhamento distribuídas que compitam com ou talvez mesmo substituam plataformas capitalistas, educação empreendedora e maker em todas as escolas eacessível a residentes adultos e uma quantidade significativa de projetos de crowdfunding cívicos. O que eu tenho certeza é que novas formas de empreendedorismo aberto e baseado em [commons](https://en.wikipedia.org/wiki/Commons), capacitadas pela tecnologia e baseadas em comunidades locais interconectadas, estão aqui para ficar e transformar nossas cidades e nossas vidas.
 
-___
+---
+
+#### Gostou do que leu?
+
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
+
+---
 
 [^1]: https://pt.wikipedia.org/wiki/Renda_b%C3%A1sica_de_cidadania
