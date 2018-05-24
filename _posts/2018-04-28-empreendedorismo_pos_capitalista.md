@@ -5,6 +5,7 @@ header:
   image: /img/postagens/empreendedorismo_posc/cover.jpeg
   caption: "Creditos da Imagem: [**Flickr/Joe Wolf**](https://www.flickr.com/photos/joebehr/19885871121)"
   teaser: /img/postagens/empreendedorismo_posc/cover.jpeg
+classes: wide
 categories:
   - Artigos
 tags:
