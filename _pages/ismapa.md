@@ -21,6 +21,8 @@ Utilizando estes dados, o Emergir mapeou a comunidade de bolsistas do Ismart atr
 
 Os resultados do ISMAPA estão organizados na aprensentação abaixo. Mas antes, vale a pena ressaltar que, de maneira a anonimizar os bolsistas e suas respectivas posições na rede, os seus nomes foram encriptografados utilizando a função [DM5](https://pt.wikipedia.org/wiki/MD5). Caso você seja um bolsista e queira ver o nó que representa a sua posição na rede, siga os passos descritos na apresentação.
 
+Também é importante deixar claro que o ISMAPA não é uma representação fidedigna da comunidade de bolsista do Ismart já que o formulário de coleta de dados não recebeu 100% de respostas. Esse fator é explorado com mais detalhes na apresentação.
+
 ## O ISMAPA
 
 <iframe src="https://emergir.kumu.io/ismapa" width="100%" height="600" frameborder="0"></iframe>
@@ -29,4 +31,4 @@ Os resultados do ISMAPA estão organizados na aprensentação abaixo. Mas antes,
 
 Os bolsistas Ismart [João Pedro Oliveira](https://www.facebook.com/pedrojoao.oliveira) e [Paulo de Tarso](https://www.facebook.com/paulo.santos.ismart) se voluntariaram e ofereceram um suporte essencial para a realização do ISMAPA. Portanto, eles são autores integrais deste projeto.
 
-E um agradecimento especial ao próprio Ismart, que forneceu toda a ajuda necessária para a coleta dos dados para o ISMAPA.
+E um agradecimento especial ao próprio Ismart, que forneceu toda a ajuda necessária com a coleta dos dados e brainstorming para o ISMAPA.
