@@ -1,6 +1,9 @@
 ---
 title: "Adaptação à Complexidade"
 layout: splash
+classes:
+  - landing
+  - dark-theme
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.25"
