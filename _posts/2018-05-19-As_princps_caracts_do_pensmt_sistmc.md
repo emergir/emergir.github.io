@@ -1,6 +1,6 @@
 ---
 title: "As principais características do Pensamento Sistêmico"
-permalink: /prncps_crctrstcs_pnsdmt_sstmc/
+permalink: /caracteristicas_do_pensamento_sistemico/
 header:
   image: /img/postagens/prncp_crct_pnsm_sstm/cover.png
   caption: "Creditos da Imagem: [**Felipe Tavares**](https://desenvolvimentoregenerativo.com/caracteristicas-do-pensamento-sistemico/)"

@@ -9,8 +9,7 @@ main:
     url: /cursos/
   - title: "Sobre"
     url: /sobre/
-  - title: Projects
-    subfolderitems:
+  - title: Projetos
       - page: ISMAPA
         url: /ismapa/
 #  - title: "Flocking"

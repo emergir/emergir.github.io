@@ -3,8 +3,8 @@ layout: single
 permalink: /ismapa/
 title: "Ismapa"
 header:
-  overlay_image: img/bckgrnd/abelha.jpg
-  teaser: img/bckgrnd/abelha.jpg
+  overlay_image: img/ismapa.png
+  teaser: img/ismapa.png
 classes: wide
 ---
 
