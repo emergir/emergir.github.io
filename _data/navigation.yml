@@ -9,8 +9,7 @@ main:
     url: /cursos/
   - title: "Sobre"
     url: /sobre/
-  - title: Projetos
-      - page: ISMAPA
-        url: /ismapa/
+  - title: ISMAPA
+    url: /ismapa/
 #  - title: "Flocking"
 #    url: /flocking/
