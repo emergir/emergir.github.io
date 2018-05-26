@@ -15,7 +15,7 @@ excerpt: 'Emergir refere-se ao "surgimento de estruturas, padrões e propriedade
 
 intro:
   - image_path:
-    excerpt: '[<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
+    excerpt: '[<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--info}
     [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp; [<i class="fas fa-exchange-alt"></i> Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--success}'
 
 feature_row:
@@ -39,11 +39,11 @@ feature_row:
     excerpt: "Vídeos sobre modelos cognitivos, teorias e tecnologias para um mundo de interdependências."
     url: "/cursos/"
     btn_label: "Explorar"
-    btn_class: "btn-success"
+    btn_class: "btn--danger"
 
 feature_row2:
 
-- image_path: /img/ismapa/ismapa.png
+- image_path: /img/ismapa/ismapa2.png
   title: "ISMAPA"
   excerpt: "Mapeamento e Análise da Rede de Bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos (Ismart)."
   url: "/ismapa/"
