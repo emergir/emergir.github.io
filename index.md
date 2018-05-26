@@ -25,7 +25,7 @@ feature_row:
     excerpt: "Textos explorativos relacionados ao paradigma filosófico-científico da Complexidade."
     url: "/categorias/artigos/"
     btn_label: "Explorar"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
   - image_path: /img/bckgrnd/radio.png
     title: "Rádio Emergir"
@@ -39,8 +39,16 @@ feature_row:
     excerpt: "Vídeos sobre modelos cognitivos, teorias e tecnologias para um mundo de interdependências."
     url: "/cursos/"
     btn_label: "Explorar"
-    btn_class: "btn--primary"
+    btn_class: "btn-success"
 
+feature_row2:
+
+- image_path: /img/ismapa/ismapa.png
+  title: "ISMAPA"
+  excerpt: "Mapeamento e Análise da Rede de Bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos (Ismart)."
+  url: "/ismapa/"
+  btn_label: "Explorar"
+  btn_class: "btn--info"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -49,3 +57,8 @@ feature_row:
 &nbsp;
 
 {% include feature_row %}
+
+# Projetos
+&nbsp;
+
+{% include feature_row id="feature_row2" type="left" %}
