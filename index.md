@@ -6,7 +6,7 @@ classes:
   - dark-theme
 header:
   overlay_color: "#5e616c"
-  overlay_filter: "0.25"
+  overlay_filter: "0.28"
   overlay_image: /img/bckgrnd/emergencia.jpeg
   cta_url: "https://www.youtube.com/watch?v=rWJ4O70-Kr4"
   cta_label: "Como assim?"
