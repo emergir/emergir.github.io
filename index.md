@@ -32,20 +32,20 @@ feature_row:
     excerpt: "Conversas com pessoas que lidam com a complexidade diariamente, na prática."
     url: "/categorias/podcast/"
     btn_label: "Explorar"
-    btn_class: "btn--primary"
+    btn_class: "btn--success"
 
   - image_path: /img/bckgrnd/cursos.png
     title: "Cursos"
     excerpt: "Vídeos sobre modelos cognitivos, teorias e tecnologias para um mundo de interdependências."
     url: "/cursos/"
     btn_label: "Explorar"
-    btn_class: "btn--danger"
+    btn_class: "btn--success"
 
 feature_row2:
 
-- image_path: /img/ismapa/ismapa2.png
+- image_path: /img/ismapa/ismapa3.png
   title: "ISMAPA"
-  excerpt: "Mapeamento e Análise da Rede de Bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos (Ismart)."
+  excerpt: "Mapeamento e Análise da Rede de Bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos ([Ismart](http://www.ismart.org.br/))."
   url: "/ismapa/"
   btn_label: "Explorar"
   btn_class: "btn--info"
