@@ -254,23 +254,17 @@ Obviamente, o impacto real destas aplicações dependerá das taxas de adoção 
 
 De maneira geral, as promessas aqui mencionada são realmente grandiosas. E um certo tom de ceticismo construtivo não faz mal. Porém, caso fosse possível voltar no tempo, eu adoraria ir à Veneza do final século XV e observar as reações dos mercantes da época em seu primeiro contato com a invenção do Frei Luca Pacioli. Na minha opinião, o sistema de contabilidade de entrada dupla deve ter parecido tão estranho para as pessoas daquele período quanto as tecnologias de blockchain são estranhas para as pessoas hoje em dia. Contudo, isso não diminui o impacto que aquela tecnologia teve no mundo. E eu acredito que o mesmo vale para as tecnologias de Registro Público de Entrada Tripla. Mas cabe ao tempo definir o que acontecerá. Por enquanto, é importante sempre tentar não tentar ficar para trás.
 
-
-Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
-
 ---
 
-## Contribuições
+## Curtiu?
 
-Caso você tenha gostado deste material e queira contribuir com o Emergir, seguem os endereços das nossas carteiras de Bitcoin e Ethereum.
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}. Assim seguimos avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
 
-| Bitcoin | Ether |
-| :---: | :---: |
-| ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) |
+E caso você tenha gostado deste material e queira contribuir financeiramente com o Emergir, seguem os endereços das nossas carteiras de Bitcoin e Ethereum (Paypal também). Claro, as contribuições não financeiras também são <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">muito bem vindas</a>.
 
-
-#### Gostou do que leu?
-
-Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}
+| Bitcoin | Ether | Patreon | Paypal |
+| :---: | :---: | :---: | :---: |  
+| ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) | [![Patreon](/img/Patreon.png)](https://www.patreon.com/emergir) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) |
 
 ## Referências
 

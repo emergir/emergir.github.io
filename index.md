@@ -25,14 +25,14 @@ feature_row:
     excerpt: "Textos explorativos relacionados ao paradigma filosófico-científico da Complexidade."
     url: "/categorias/artigos/"
     btn_label: "Explorar"
-    btn_class: "btn--success"
+    btn_class: "btn--default"
 
   - image_path: /img/bckgrnd/radio.png
     title: "Rádio Emergir"
     excerpt: "Conversas com pessoas que lidam com a complexidade diariamente, na prática."
     url: "/categorias/podcast/"
     btn_label: "Explorar"
-    btn_class: "btn--success"
+    btn_class: "btn--primary"
 
   - image_path: /img/bckgrnd/cursos.png
     title: "Cursos"

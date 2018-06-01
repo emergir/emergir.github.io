@@ -53,7 +53,7 @@ O portal também serve como vitrine para projetos relevantes à exploração do 
 
 ## Contato
 
-Uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal. Pensou em alguma maneira de se envolver? Quer bater um papo? Dê um alô por <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">aqui</a> e vamos conversar. O Emergir está aberto (mas não limitado) a:
+Uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal. Pensou em alguma maneira de se envolver? Quer bater um papo? Dê um alô por <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">aqui</a> e vamos conversar. [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram} também funciona. O Emergir está aberto (mas não limitado) a:
   * Sugestões de temas;
   * Escritores convidados;
   * Participação no podcast;
