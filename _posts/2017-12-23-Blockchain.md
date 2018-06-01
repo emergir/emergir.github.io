@@ -26,7 +26,7 @@ Para melhor navegação, utilize o index ao lado -->
 
 Você provavelmente realizou alguma transação comercial hoje, certo? Naquele momento, você parou para pensar no mecanismo tecnológico que possibilitou isso? Mecanismo que, na verdade, possibilitou todas as transações que 1) antecederam e 2) aconteceram em paralelo a sua? Pelo bem da sua sanidade eu espero que a sua resposta seja não. Felizmente, tal tecnologia é sofisticada o suficiente para que as pessoas possam viver suas vidas sem se preocupar com ela. Mas isso não muda o fato de que ela já tem cerca de 700 anos. E pior, que está começando a mostrar sua idade. Estamos falando da Contabilidade de Entrada Dupla (CED).
 
-Antes de explorar o que é a CED e como ela revolucionou a história do comércio, vale a pena dar um passo atrás e entender um pouco mais sobre a história da contabilidade em geral. Imagine que estamos vivendo por volta do ano 10000 AC - quando a humanidade acabou de entrar no período que hoje é conhecido como Revolução Industrial. Gradualmente, os seres humana deixam de caçar e juntar e começam a plantar e domesticar animais. E consequentemente novas necessidades surgem. Uma delas é a necessidade de realizar a contabilidade dos novos “bens” de uma pessoa, uma vez que antes deste período poucas coisas precisavam ser contabilizadas. A maneira mais fácil de realizar esta tarefa é através da criação de uma simples lista que contém informações sobre todos os grãos e animais de uma “fazenda”. Ou seja, a Contabilidade de Entrada Única (CEU).
+Antes de explorar o que é a CED e como ela revolucionou a história do comércio, vale a pena dar um passo atrás e entender um pouco mais sobre a história da contabilidade em geral. Imagine que estamos vivendo por volta do ano 10000 AC - quando a humanidade acabou de entrar no período que hoje é conhecido como Revolução Agrícola. Gradualmente, os seres humana deixam de caçar e juntar e começam a plantar e domesticar animais. E consequentemente novas necessidades surgem. Uma delas é a necessidade de realizar a contabilidade dos novos “bens” de uma pessoa, uma vez que antes deste período poucas coisas precisavam ser contabilizadas. A maneira mais fácil de realizar esta tarefa é através da criação de uma simples lista que contém informações sobre todos os grãos e animais de uma “fazenda”. Ou seja, a Contabilidade de Entrada Única (CEU).
 
 > "Before that (Single Entry Accounting) we were running around the forest chasing animals, following the moon or farming. Our prospects were limited. You lived with your tribe or clan and you hunted and gathered. Your parents before you did the same thing and theirs before them and theirs before them in an endless cycle down through the years." [^1]
 
@@ -258,9 +258,9 @@ De maneira geral, as promessas aqui mencionada são realmente grandiosas. E um c
 
 ## Curtiu?
 
-Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram}. Assim seguimos avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
+Então chegue junto e participe das trocas e conversas no nosso [<i class="fab fa-telegram"></i> Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA){: .btn .btn--telegram} Assim seguimos avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
 
-E caso você tenha gostado deste material e queira contribuir financeiramente com o Emergir, seguem os endereços das nossas carteiras de Bitcoin e Ethereum (Paypal também). Claro, as contribuições não financeiras também são <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">muito bem vindas</a>.
+E caso você tenha gostado deste material e queira contribuir financeiramente com o Emergir, seguem os endereços das nossas carteiras de Bitcoin e Ethereum (Paypal e patreon também). Claro, as contribuições não financeiras também são <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">muito bem vindas</a>.
 
 | Bitcoin | Ether | Patreon | Paypal |
 | :---: | :---: | :---: | :---: |  
