@@ -6,7 +6,7 @@ header:
   overlay_image: img/ismapa/ismapa.png
   teaser: img/ismapa/ismapa.png
 classes: wide
-author: true
+author_profile: true
 toc: true
 toc_label: "Navegando"
 toc_icon: "compass"
@@ -15,7 +15,7 @@ toc_icon: "compass"
 Desde reações químicas em células, até informações circulando entre pessoas em uma comunidade, as redes são um padrão fundamental de organização de todos sistemas vivos[^1]. Portanto, os conhecimentos e insights provinientes de seu entendimento são extremamente importantes para todas as tarefas envolvendo agentes interconectados. Isto é, para todas ações relacionadas a sistemas complexos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYElG6ZLbzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-&nbsp;
+---
 
 Dentro deste contexto, encontra-se o ISMAPA. Uma exploração entre Emergir e Ismart com caráter experimental e educacional que visa explorar as possibilidades trazidas pelo mapeamento - e análise - de redes de pessoas (comunidades) para o planejamento de ações em prol desta rede.
 
@@ -53,7 +53,7 @@ A análise dos dados em si foi tomada como um processo de aprendizagem e experim
 Durante o processo de análise, ficou claro que saber manipular a ferramenta Kumu é um conhecimento muito valioso, dada a sua grande flexibilidade e poder de processamento de dados. Por isso, o Emergir decidiu registrar o desenvolvimento do ISMAPA, o que deu origem a uma série de vídeos tutorias sobre a ferramenta. Assim, outras pessoas poderão aprender com este processo e utilizar Kumu em outros projetos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QLb5rX-skV8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-&nbsp;
+---
 
 Uma das conclusões importantes pós-processo de análise de redes foi a importância das **perguntas** que são feitas durante a coleta de dados. Entender quais são as perguntas que trarão a maior quantidade de insights possíveis é essencial, e esse é um ponto que seria feito diferente em uma outra versão do ISMAPA. Apesar das perguntas no formulário enviado à comunidade terem informações importantes sobre como a rede foi formada (quando as conexões aconteceram, em qual contexto, e como elas se diferenciam em importância), seria possível estabelecer melhores perguntas de maneira a ganhar insights sobre como esta rede se comporta hoje e como ela pode evoluir no futuro. A limitação do número que conexões que cada aluno poderia indicar, também foi uma decisão de design que limitou a coleta de dados sobre a rede, não permitindo o total mapeamento de sua complexidade.
 
