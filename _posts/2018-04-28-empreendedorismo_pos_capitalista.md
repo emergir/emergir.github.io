@@ -1,5 +1,5 @@
 ---
-title: "Empreendedorismo pós-capitalista: renda básica, cidades blockchain e moedas locais"
+title: "Empreendedorismo Pós-capitalista: Renda Básica, Cidades Blockchain e Moedas Locais"
 permalink: /empreendedorismo_pos_capitalista/
 header:
   image: /img/postagens/empreendedorismo_posc/cover.jpeg
