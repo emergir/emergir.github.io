@@ -38,7 +38,7 @@ Também é importante deixar claro que o ISMAPA não é uma representação fide
 
 ### O ISMAPA
 
-<iframe src="https://emergir.kumu.io/ismapa" width="115%" height="600" frameborder="0"></iframe>
+<iframe src="https://emergir.kumu.io/ismapa" width="940" height="600" frameborder="0"></iframe>
 
 ## Aprendizados
 
