@@ -12,6 +12,9 @@ toc_label: "Navegando"
 toc_icon: "compass"
 ---
 
+> "Quantidades podem ser medidas;
+Qualidades precisam ser mapeadas." Fritjof Capra
+
 Desde reações químicas em células, até informações circulando entre pessoas em uma comunidade, as redes são um padrão fundamental de organização de todos sistemas vivos[^1]. Portanto, os conhecimentos e insights provinientes de seu entendimento são extremamente importantes para todas as tarefas envolvendo agentes interconectados. Isto é, para todas ações relacionadas a sistemas complexos.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYElG6ZLbzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
