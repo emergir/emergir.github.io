@@ -30,7 +30,7 @@ feature_row:
   - image_path: /img/bckgrnd/radio.png
     title: "Rádio Emergir"
     excerpt: "Conversas com pessoas que lidam com a complexidade diariamente, na prática."
-    url: "/categorias/podcast/"
+    url: "https://anchor.fm/radio-emergir"
     btn_label: "Explorar"
     btn_class: "btn--facebook"
 
