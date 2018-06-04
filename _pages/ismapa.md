@@ -28,7 +28,7 @@ Compartilhamos aqui os resultados desse processo, bem como os seus aprendizados.
 
 No início de 2018, os mais de dois mil brilhantes bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos ([Ismart](http://www.ismart.org.br/)) foram convidados a responder um questionário indicando os membros da Comunidade Ismart com os quais eles mais integarem. Ou, em outras palavras, as suas principais conexões dentro desta **rede**.
 
-Utilizando estes dados, o Emergir mapeou a comunidade de bolsistas do Ismart através da ferramenta para análise de redes [Kumu](https://kumu.io/), dando origem ao ISMAPA. Neste processo, foi possível identificar:
+Utilizando estes dados, o Emergir mapeou a comunidade de bolsistas do Ismart através da ferramenta para mapeamento e análise de redes [Kumu](https://kumu.io/), dando origem ao ISMAPA. Neste processo, foi possível identificar:
 
 - Como a rede se formou ao longo dos anos - desde a sua primeira conexão em 1992 até as conexões feitas em 2017;
 - Como ela é composta atualmente, principalmente em relação a fatores geográficos;
