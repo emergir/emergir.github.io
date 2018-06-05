@@ -4,7 +4,7 @@ permalink: /categorias/
 layout: categories
 author_profile: true
 header:
-  overlay_image: img/76794007.jpeg
+  overlay_image: img/tinified/26270024.jpg
 entries_layout: grid
 ---
 
