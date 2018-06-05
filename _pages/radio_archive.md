@@ -2,7 +2,8 @@
 title: Rádio Emergir
 layout: category
 permalink: /categorias/podcast/
-author_profile: true
+author:
+  Rádio Emergir
 header:
   overlay_image: img/bckgrnd/177362138.jpeg
 entries_layout: grid

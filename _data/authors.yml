@@ -16,8 +16,9 @@ Danilo Vaz:
 
 Rádio Emergir:
   name        : "Rádio Emergir"
+  uri         : "https://anchor.fm/radio-emergir"
   bio         : "Explorações e conversas sobre inovações científicas, sociais e culturais que inspiram e criam um mundo de maior resiliência para a espécie humana e os sistemas dos quais ela faz parte."
-  avatar      : "img/radio.png"
+  avatar      : "img/radio_emergir.png"
 
 Amanda Alface:
   name        : "Amanda Pinheiro Alface"
