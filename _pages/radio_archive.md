@@ -4,16 +4,15 @@ layout: category
 permalink: /categorias/podcast/
 author_profile: true
 header:
-  overlay_image: img/bckgrnd/nao-linearidade.jpg
+  overlay_image: img/bckgrnd/177362138.jpeg
 entries_layout: grid
 taxonomy: Podcast
 ---
 
-<iframe src="https://anchor.fm/radio-emergir/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
-
 # Episódio 2 - Economia Circular com Camila Fix
 
 <iframe src="https://anchor.fm/radio-emergir/embed/episodes/Economia-Circular-com-Camila-Fix-e1jdgg" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+&nbsp;
 
 # Episódio 1 - RAPS, Sustentabilidade Cívica e Política com Juliana de Barros
 
