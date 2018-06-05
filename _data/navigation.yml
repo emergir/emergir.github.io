@@ -4,7 +4,7 @@ main:
   - title: "Artigos"
     url: "/categorias/artigos/"
   - title: "Rádio Emergir"
-    url: "https://anchor.fm/radio-emergir"
+    url: "/categorias/podcast/"
   - title: "Cursos"
     url: /cursos/
   - title: "Sobre"
