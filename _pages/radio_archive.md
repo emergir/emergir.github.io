@@ -10,7 +10,7 @@ entries_layout: grid
 taxonomy: Podcast
 toc: true
 toc_label: "Navegando"
-toc_icon: "compass"
+toc_icon: "assistive-listening-systems"
 ---
 
 ## Episódio 2 - Economia Circular com Camila Fix
