@@ -1,12 +1,12 @@
 ---
 title: Rádio Emergir
-layout: category
+layout: single
 permalink: /categorias/podcast/
 author:
   Rádio Emergir
 header:
   overlay_image: img/bckgrnd/177362138.jpeg
-entries_layout: grid
+#entries_layout: grid
 taxonomy: Podcast
 toc: true
 toc_label: "Navegando"
