@@ -89,4 +89,6 @@ Então chegue junto e participe das trocas e conversas no nosso grupo no [<i cla
 
 ---
 
+## Referências
+
 [^1]: https://pt.wikipedia.org/wiki/Renda_b%C3%A1sica_de_cidadania
