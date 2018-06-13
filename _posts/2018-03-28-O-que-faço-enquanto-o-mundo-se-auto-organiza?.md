@@ -28,4 +28,23 @@ Presença, autoconhecimento e observação sem dúvida são processos determinan
 
 Então chegue junto e participe das trocas e conversas no nosso grupo no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter.
 
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/emergir" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/emergir', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address</label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /><p><a href="https://tinyletter.com" target="_blank">powered by TinyLetter</a></p></form>
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://emergir.us16.list-manage.com/subscribe/post?u=28e41725851da04e2014a8180&amp;id=06c739eed3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_28e41725851da04e2014a8180_06c739eed3" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
