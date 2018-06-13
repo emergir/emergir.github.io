@@ -43,6 +43,32 @@ Para que se possa focar no todo ao invés das partes é necessária uma mudança
 
 Na concepção cartesiana existem estruturas fundamentais e, então, há forças e mecanismos com os quais estas interagem dando origem aos processos. Na ciência sistêmica, cada estrutura é vista como uma manifestação do processo subjacente. Assim, o pensamento sistêmico muda de uma perspectiva de estruturas para uma de processos (CAPRA e LUISI, 2014)[^2]. Nos sistemas vivos há um fluxo contínuo de matéria ao passo que a sua forma é mantida. Assim, há crescimento e declínio, regeneração e desenvolvimento. A compreensão das estruturas vivas é, portanto, intimamente ligada ao entendimento dos processos metabólicos e desenvolvimentais (CAPRA et al., 2000)[^1].
 
+#### Gostou do que leu?
+
+Então chegue junto e participe das trocas e conversas no nosso grupo no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
+
+<!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://emergir.us16.list-manage.com/subscribe/post?u=28e41725851da04e2014a8180&amp;id=06c739eed3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">
+
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="endereço de e-mail" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_28e41725851da04e2014a8180_06c739eed3" tabindex="-1" value=""></div>
+    <div class="clear"><input type="submit" value="Inscrever-se" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    </div>
+</form>
+</div>
+
+<!--End mc_embed_signup-->
+
+
 ## Referências
 
 [^1]: CAPRA, F. et al. Ecoalfabetização: preparando o terreno. Learning in the Real World, 2000.
