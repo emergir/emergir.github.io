@@ -15,7 +15,7 @@ excerpt: 'Emergir refere-se ao "surgimento de novas estruturas, padrões e propr
 
 intro:
   - image_path:
-    excerpt: '[<i class="fas fa-envelope"></i> Newsletter](https://emergir.us16.list-manage.com/subscribe/post?u=28e41725851da04e2014a8180&id=06c739eed3){: .btn .btn--secondary}
+    excerpt: '[<i class="fas fa-envelope"></i> Newsletter](https://emergir.us16.list-manage.com/subscribe/post?u=28e41725851da04e2014a8180&id=06c739eed3){: .btn .btn-primary}
     [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success}
     [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter}
     [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook}
