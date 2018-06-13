@@ -62,3 +62,5 @@ feature_row2:
 &nbsp;
 
 {% include feature_row id="feature_row2" type="left" %}
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"28e41725851da04e2014a8180","lid":"06c739eed3"}) })</script>
