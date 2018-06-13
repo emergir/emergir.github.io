@@ -15,8 +15,12 @@ excerpt: 'Emergir refere-se ao "surgimento de novas estruturas, padrões e propr
 
 intro:
   - image_path:
-    excerpt: '[<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success}
-    [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter} [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook} [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp; [<i class="fas fa-exchange-alt"></i> Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--info}'
+    excerpt: '[<i class="fas fa-envelope"></i> Newsletter](https://emergir.us16.list-manage.com/subscribe/post?u=28e41725851da04e2014a8180&id=06c739eed3){: .btn .btn--secondary}
+    [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success}
+    [<i class="fab fa-twitter"></i> Twitter](https://twitter.com/emergir_co){: .btn .btn--twitter}
+    [<i class="fab fa-facebook"></i> Facebook](https://www.facebook.com/emergir.co){: .btn .btn--facebook}
+    [<i class="fab fa-youtube"></i> Youtube](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger} &nbsp;
+    [<i class="fas fa-exchange-alt"></i> Participe do Processo](https://docs.google.com/spreadsheets/d/1PU4k72QZ06FRlOnUlOjGE7M0btOqf5_zSVSSF4Hsxps/edit?usp=sharing){: .btn .btn--info}'
 
 feature_row:
 
@@ -62,5 +66,3 @@ feature_row2:
 &nbsp;
 
 {% include feature_row id="feature_row2" type="left" %}
-
-<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us16.list-manage.com","uuid":"28e41725851da04e2014a8180","lid":"06c739eed3"}) })</script>
