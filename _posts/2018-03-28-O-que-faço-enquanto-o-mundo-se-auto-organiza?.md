@@ -39,10 +39,10 @@ Então chegue junto e participe das trocas e conversas no nosso grupo no [<i cla
 <form action="https://emergir.us16.list-manage.com/subscribe/post?u=28e41725851da04e2014a8180&amp;id=06c739eed3" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 
-	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="endereço de e-mail" required>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_28e41725851da04e2014a8180_06c739eed3" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="Inscrever-se" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
