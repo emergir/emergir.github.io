@@ -1,7 +1,7 @@
 # main links
 main:
 
-  - title: "Artigos"
+  - title: "[<i class="fas fa-envelope"></i> Artigos]"
     url: "/categorias/artigos/"
   - title: "Rádio Emergir"
     url: "/categorias/podcast/"
