@@ -1,6 +1,6 @@
 ---
 title: "Do Linear ao Complexo"
-permalink: /dolinear_aocomplexo/
+permalink: /dolinearaocomplexo/
 header:
   image: /img/postagens/linear_to_complex/cover.png
   teaser: /img/postagens/linear_to_complex/cover.png
