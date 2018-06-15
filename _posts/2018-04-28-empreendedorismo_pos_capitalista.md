@@ -21,6 +21,8 @@ Para acessar a versão original, clique neste [link](https://evonomics.com/post-
 
 ---
 
+## Empreendedorismo Pós-capitalista: Renda Básica, Cidades Blockchain e Moedas Locais
+
 > Rumo a um novo modelo econômico urbano, colaborativo e local, mas globalmente interconectado, de prosperidade compartilhada.
 
 O [movimento Occupy](https://pt.wikipedia.org/wiki/Occupy_Wall_Street) foi talvez o primeiro a levantar uma consciência global sobre a crescente insatisfação com a economia capitalista baseada no mercado. Bancos grandes demais para fracassar, resgates do governo e aumento da desigualdade de renda provocaram a ira de milhões em todo o mundo. Desde então, os apelos por uma revisão do nosso paradigma econômico se tornaram mais altos. Um potencial enquadramento que ganhou seguidores é o pós-capitalismo, popularizado por Paul Mason em um livro de mesmo nome. O pós-capitalismo não é um retorno ao marxismo, mas, em vez disso, é impulsionado pelo entendimento de que uma terceira via que não é focada no controle pesado do governo, nem em giagntes proprietários que são apoiados por capital de risco e publicamente negociados. Em vez disso, uma economia pós-capitalista seria impulsionada mais por organizações coletivas, cooperativas ou até mesmo autônomas, frequentemente alavancando também moedas fiduciárias não-governamentais.

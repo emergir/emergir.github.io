@@ -19,6 +19,8 @@ O autor e consultor estratégico Daniel Christian Wahl publicou no dia 11 de Out
 
 ---
 
+## Emergência e Design
+
 > "A beleza das coisas vivas origina-se do fato de que elas são soluções encarnadas de existência individual em conexão." — Andreas Weber (2013: 38)
 
 Um dos insights fundamentais da teoria da complexidade é a profunda mudança de perspectiva que resulta do reconhecimento da natureza fundamentalmente imprevisível e incontrolável de sistemas dinâmicos complexos. Sem entrar nos fundamentos matemáticos em detalhe, poderíamos dizer que qualquer sistema com mais de três variáveis interativas que mudam de maneira não linear ao longo de ciclos repetitivos (iterações) pode ser considerado como um sistema dinâmico complexo.

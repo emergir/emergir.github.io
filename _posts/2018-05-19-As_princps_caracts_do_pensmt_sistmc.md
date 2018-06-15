@@ -1,5 +1,5 @@
 ---
-title: "As principais características do Pensamento Sistêmico"
+title: "As Principais Características do Pensamento Sistêmico"
 permalink: /caracteristicas_do_pensamento_sistemico/
 header:
   image: /img/postagens/prncp_crct_pnsm_sstm/cover.png
@@ -13,9 +13,11 @@ author:
   Felipe Tavares
 ---
 
-> Este texto esta sendo compartilhado do blog do [Instituto de Desenvolvimento Regenerativo](https://desenvolvimentoregenerativo.com/). Para acessar o texto original, clique neste [link](https://desenvolvimentoregenerativo.com/caracteristicas-do-pensamento-sistemico/).
+Este texto esta sendo compartilhado do blog do [Instituto de Desenvolvimento Regenerativo](https://desenvolvimentoregenerativo.com/). Para acessar o texto original, clique neste [link](https://desenvolvimentoregenerativo.com/caracteristicas-do-pensamento-sistemico/).
 
 ---
+
+## As Principais Características do Pensamento Sistêmico
 
 O mundo como uma máquina dá lugar a um mundo como redes ou como sistemas dentro de sistemas vivos.
 
