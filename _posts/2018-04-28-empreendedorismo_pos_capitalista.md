@@ -63,7 +63,7 @@ Suspeito que, no futuro, pelo menos o futuro que espero ver, vamos testemunhar c
 
 ---
 
-#### Gostou do que leu?
+# Gostou do que leu?
 
 Então chegue junto e participe das trocas e conversas no nosso grupo no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
 

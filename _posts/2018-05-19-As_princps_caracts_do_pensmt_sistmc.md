@@ -45,7 +45,7 @@ Para que se possa focar no todo ao invés das partes é necessária uma mudança
 
 Na concepção cartesiana existem estruturas fundamentais e, então, há forças e mecanismos com os quais estas interagem dando origem aos processos. Na ciência sistêmica, cada estrutura é vista como uma manifestação do processo subjacente. Assim, o pensamento sistêmico muda de uma perspectiva de estruturas para uma de processos (CAPRA e LUISI, 2014)[^2]. Nos sistemas vivos há um fluxo contínuo de matéria ao passo que a sua forma é mantida. Assim, há crescimento e declínio, regeneração e desenvolvimento. A compreensão das estruturas vivas é, portanto, intimamente ligada ao entendimento dos processos metabólicos e desenvolvimentais (CAPRA et al., 2000)[^1].
 ---
-#### Gostou do que leu?
+# Gostou do que leu?
 
 Então chegue junto e participe das trocas e conversas no nosso grupo no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
 

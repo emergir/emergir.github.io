@@ -24,7 +24,7 @@ Qualquer desequilíbrio detectado nesse sistema é recebido como estímulo-solu�
 Presença, autoconhecimento e observação sem dúvida são processos determinantes para acessar essa nova consciência, para permitir que o fluxo interno possa emergir, brotar e permear a nova realidade.
 
 ---
-#### Gostou do que leu?
+# Gostou do que leu?
 
 Então chegue junto e participe das trocas e conversas no nosso grupo no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
 

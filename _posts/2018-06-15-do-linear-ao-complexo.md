@@ -74,7 +74,7 @@ O maior benefício de entender o paradigma da Complexidade é sua capacidade de 
 
 ---
 
-### Gostou do que leu?
+# Gostou do que leu?
 
 Então chegue junto e participe das trocas e conversas no nosso grupo no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
 
