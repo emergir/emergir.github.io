@@ -19,7 +19,7 @@ O autor e consultor estratégico Daniel Christian Wahl publicou no dia 11 de Out
 
 ---
 
-## Emergência e Design
+# Emergência e Design
 
 > "A beleza das coisas vivas origina-se do fato de que elas são soluções encarnadas de existência individual em conexão." — Andreas Weber (2013: 38)
 

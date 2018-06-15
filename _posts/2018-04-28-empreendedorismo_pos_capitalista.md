@@ -21,7 +21,7 @@ Para acessar a versão original, clique neste [link](https://evonomics.com/post-
 
 ---
 
-## Empreendedorismo Pós-capitalista: Renda Básica, Cidades Blockchain e Moedas Locais
+# Empreendedorismo Pós-capitalista: Renda Básica, Cidades Blockchain e Moedas Locais
 
 > Rumo a um novo modelo econômico urbano, colaborativo e local, mas globalmente interconectado, de prosperidade compartilhada.
 

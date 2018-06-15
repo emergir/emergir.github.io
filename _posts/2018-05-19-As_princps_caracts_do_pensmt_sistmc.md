@@ -17,7 +17,7 @@ Este texto esta sendo compartilhado do blog do [Instituto de Desenvolvimento Reg
 
 ---
 
-## As Principais Características do Pensamento Sistêmico
+# As Principais Características do Pensamento Sistêmico
 
 O mundo como uma máquina dá lugar a um mundo como redes ou como sistemas dentro de sistemas vivos.
 

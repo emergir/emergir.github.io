@@ -18,7 +18,7 @@ No dia 16 de Julho de 2017, a Presidente da Estônia, Kersti Kaljulaid, escreveu
 
 ___
 
-## Nossos cidadãos estão tornando-se digitais e globais. Se o estado não acompanhar, ele ficará obsoleto
+# Nossos cidadãos estão tornando-se digitais e globais. Se o estado não acompanhar, ele ficará obsoleto
 
 Como Presidente da Estónia, represento a única sociedade verdadeiramente digital que realmente possui um estado. E esta posição me fez questionar se o estado como o conhecemos hoje é apto para o século 21.
 
