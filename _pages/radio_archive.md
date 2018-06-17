@@ -19,6 +19,8 @@ toc_icon: "assistive-listening-systems"
 
 Em uma conversa recente com uma amiga, eu (Danilo) refleti verbalmente sobre as minhas aprendizagens ao fazer o [Capra Course](http://www.capracourse.net/), que explora a Visão Sistêmica da Vida construída por Fritjof Capra e Pier Luigi Luis. Meu exercício mental foi sobre as conexões entre as dimensões Biológicas, Cognitivas, Sociais e Ecosistêmicas da vida, como explorado no curso.
 
+![Capra](/img/radio/Hope.jpeg)
+
 ## Episódio 2 - Economia Circular com Camila Fix
 
 <iframe src="https://anchor.fm/radio-emergir/embed/episodes/Economia-Circular-com-Camila-Fix-e1jdgg" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
