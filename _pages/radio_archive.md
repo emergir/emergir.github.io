@@ -13,6 +13,12 @@ toc_label: "Navegando"
 toc_icon: "assistive-listening-systems"
 ---
 
+## Episódio 3 - Reflexões sobre Redes e a Visão Sistêmica da Vida
+
+<iframe src="https://anchor.fm/radio-emergir/embed/episodes/Reflexes-sobre-Redes-e-a-Viso-Sistmica-da-Vida-e1lmca" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+Em uma conversa recente com uma amiga, eu (Danilo) refleti verbalmente sobre as minhas aprendizagens ao fazer o [Capra Course](http://www.capracourse.net/), que explora a Visão Sistêmica da Vida construída por Fritjof Capra e Pier Luigi Luis. Meu exercício mental foi sobre as conexões entre as dimensões Biológicas, Cognitivas, Sociais e Ecosistêmicas da vida, como explorado no curso.
+
 ## Episódio 2 - Economia Circular com Camila Fix
 
 <iframe src="https://anchor.fm/radio-emergir/embed/episodes/Economia-Circular-com-Camila-Fix-e1jdgg" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
