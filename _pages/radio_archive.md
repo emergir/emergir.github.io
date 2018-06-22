@@ -15,7 +15,7 @@ toc_icon: "assistive-listening-systems"
 
 ## Episódio 4 - Evolução Organizacional para o Desenvolvimento Sustentável
 
-<iframe src="https://anchor.fm/radio-emergir/embed/episodes/Evoluo-Organizacional-para-o-Desenvolvimento-Sustentvel-e1mmto" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/radio-emergir/embed/episodes/Evoluo-Organizacional-para-o-Desenvolvimento-Sustentvel-e1mmto" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Como os [Objetivos de Desenvolvimento Sustentável](https://nacoesunidas.org/pos2015/agenda2030/) podem nos ajudar a construir um mundo melhor para todos? Organizações evoluem? Como isso acontece teoricamente e na prática?
 Essas são algumas das questões que exploramos nesse episódio da Rádio Emergir com Ana Julia Ghirello, co-fundadora do BomNegócio.com (hoje OLX) e fundadora da incubadora de negócios sociais [AbeLLha](http://www.abellha.co/).
