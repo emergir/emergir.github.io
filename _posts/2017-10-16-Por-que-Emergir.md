@@ -8,6 +8,7 @@ categories:
   - Artigos
 tags:
   - Emergência
+  - Complexidade
 author:
   Danilo Vaz
 toc: true

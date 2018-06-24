@@ -7,7 +7,7 @@ header:
 categories:
   - Artigos
 tags:
-  - complexidade
+  - Complexidade
 ---
 
 Este texto foi republicado pelo portal [Heart of the Art](https://www.heartoftheart.org/?p=4684) creditando Karim Benammar, Menno van Dijk, Heather Moore e Bas Verhart da [THNK School of Creative Leadership](https://www.thnk.org/) como autores. O Emergir materializou a sua tradução por conta da brilhante forma em que o texto diferencia os paradigmas *linear* e *complexo*, trazendo reflexões valiosas para a nossa atuação como membro-participantes de diversos sistemas. Agradecimentos ao [Luiz Henrique](https://www.facebook.com/profile.php?id=1654854897) do portal [OnFloow](http://onfloow.com/) pela  tradução. Sem mais delongas, vamos à leitura:

@@ -20,6 +20,8 @@ Desde reações químicas em células, até informações circulando entre pesso
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iYElG6ZLbzs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 ---
 
+> "Every network visualisation is both a boundary that marks the limits of human perception and an invitation into numinous secrets beyond the phenomenal world. Seen historically, network visualisations testify to what's been possible or permissible to know."[^2]
+
 Dentro deste contexto, encontra-se o ISMAPA. Uma exploração entre Emergir e Ismart com caráter experimental e educacional que visa explorar as possibilidades trazidas pelo mapeamento - e análise - de redes de pessoas (comunidades) para o planejamento de ações em prol desta rede.
 
 Compartilhamos aqui os resultados desse processo, bem como os seus aprendizados.
@@ -80,3 +82,4 @@ E caso você tenha gostado deste material e queira contribuir financeiramente co
 
 ## Referências
 [^1]: http://www.capracourse.net/www-2/wp-content/uploads/sites/19/2017/06/Lecture-2-Summary.pdf
+[^2]: https://aeon.co/ideas/network-visualisations-show-what-we-can-and-what-we-may-know?utm_source=Aeon+Newsletter&utm_campaign=5e680fd4b6-EMAIL_CAMPAIGN_2018_06_21_03_57&utm_medium=email&utm_term=0_411a82e59d-5e680fd4b6-69514625

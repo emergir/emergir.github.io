@@ -8,6 +8,7 @@ categories:
   - Artigos
 tags:
   - Design
+  - Complexidade
   - Cultura
   - Culture Design
 author:
