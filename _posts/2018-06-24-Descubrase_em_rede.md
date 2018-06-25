@@ -14,7 +14,7 @@ author:
 
 Duas grandes ondas parecem já estar presentes no mar dos dias atuais, talvez ainda não em total revolução, mas sem dúvida em plena transformação e incorporação de tudo.
 
-Organizações correm para se "adaptar" à economia atual e se preparar para ganhar agilidade e escala com sistemas velozes e inteligentes, dos quais elas nem fazem ideia do que serão capazes já que pensam exatamente nos mercado onde operam ou poderiam operar no mundo que conhecemos, o qual pode mudar radicalmente - mas afinal, *o quê é esse negócio da máquina que aprende com ela mesma?* - deixo a pergunta pra gente ir pensando junto, enquanto se lê.
+Organizações correm para se "adaptar" à economia atual e se preparar para ganhar agilidade e escala com sistemas velozes e inteligentes, dos quais elas nem fazem ideia do que serão capazes já que pensam exatamente nos mercados onde operam ou poderiam operar no mundo que conhecemos, o qual pode mudar radicalmente - mas afinal, *o que é esse negócio da máquina que aprende com ela mesma?* - deixo a pergunta pra gente ir pensando junto, enquanto se lê.
 
 Pessoas em geral correm para se "proteger" dos riscos da transformação em curso - do desemprego, do enlouquecimento, da desilusão, do deixar de pertencer a um coletivo (seja ele qual for)... do envelhecimento, da violência, da perda de sentido, da solidão. *Como seria se preparar para o Caos?* - deixo essa pergunta pra gente ir se acostumando com ela... ela é boa e pode ser do bem.
 
