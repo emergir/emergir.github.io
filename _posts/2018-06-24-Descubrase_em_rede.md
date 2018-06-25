@@ -12,6 +12,12 @@ author:
   Alessandra Bernardo da Silva
 ---
 
+<!-- Start Audima Widget Injection -->
+<div id="audimaWidget"></div>
+<script src="//audio.audima.co/audima-widget.js"></script>
+<!-- End Audima Widget Injection -->
+
+
 Duas grandes ondas parecem já estar presentes no mar dos dias atuais, talvez ainda não em total revolução, mas sem dúvida em plena transformação e incorporação de tudo.
 
 Organizações correm para se "adaptar" à economia atual e se preparar para ganhar agilidade e escala com sistemas velozes e inteligentes, dos quais elas nem fazem ideia do que serão capazes já que pensam exatamente nos mercados onde operam ou poderiam operar no mundo que conhecemos, o qual pode mudar radicalmente - mas afinal, *o que é esse negócio da máquina que aprende com ela mesma?* - deixo a pergunta pra gente ir pensando junto, enquanto se lê.
