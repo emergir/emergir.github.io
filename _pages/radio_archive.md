@@ -13,6 +13,12 @@ toc_label: "Navegando"
 toc_icon: "assistive-listening-systems"
 ---
 
+## Episódio 5 - Como Lidar com o Futuro Emergente - Teoria U com Alessandra Bernardo
+
+<iframe src="https://anchor.fm/radio-emergir/embed/episodes/Como-Lidar-com-o-Futuro-Emergente---Teoria-U-com-Alessandra-Bernardo-e1nus2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+
+Neste episódio da Rádio Emergir, [Alessandra Bernardo](https://www.emergir.co/descubraseemrede/) - Engenheira de Produção [e de pessoas] - compartilha os seus conhecimentos e práticas sobre a Teoria U, um framework para lidar com o futuro que emerge co-desenvolvido por Otto Scharmer, escritor e professor do MIT. Hoje a [Teoria U](http://co-labore.net/teoria-u-um-caminho-para-inovacao-e-lideranca/) é explorada em rede e presencialmente ao redor do mundo por todo tipo de organizações e indivíduos, tendo seus esforços coordenados pelo [Presencing Institute](https://www.presencing.org/).
+
 ## Episódio 4 - Evolução Organizacional para o Desenvolvimento Sustentável
 
 <iframe src="https://anchor.fm/radio-emergir/embed/episodes/Evoluo-Organizacional-para-o-Desenvolvimento-Sustentvel-e1mmto" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
