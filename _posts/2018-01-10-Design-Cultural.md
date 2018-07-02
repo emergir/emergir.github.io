@@ -10,7 +10,7 @@ tags:
   - Design
   - Complexidade
   - Cultura
-  - Culture Design
+  - Design Cultural
 author:
   Danilo Vaz
 toc: true
