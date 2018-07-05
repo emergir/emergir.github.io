@@ -3,7 +3,7 @@ title: "Padrões Emergentes em tempos de Mudança"
 permalink: /padroes_emergentes/
 header:
   video:
-    id: mgK8QFYdbNk&t
+    id: mgK8QFYdbNk
     provider: youtube
   teaser: "/img/postagens/bckgrnd/emergencia.jpeg"
 categories:
@@ -17,7 +17,7 @@ author:
   Danilo Vaz
 ---
 
-Em fevereiro de 2018, participei como palestrante do TEDxYouth em Maastricht, Holanda. Ali, tive a oportunidade de contextualizar muitas das mudanças recentes na minha vida, e como elas estão relacionadas com algumas percepções pessoais sobre o momento em que vivemos. Aqui encontra-se a tradução da minha fala.
+Em fevereiro de 2018, participei como palestrante do TEDxYouth em Maastricht, Holanda, com a temática *Shift the Paradigm* ("Mude o Paradigma"). Ali, tive a oportunidade de contextualizar muitas das mudanças de paradigma recentes na minha vida, e como elas estão relacionadas com algumas percepções pessoais sobre o momento em que vivemos. Aqui encontra-se a tradução da minha fala.
 Obrigado [Luana](https://www.facebook.com/luana.marquessoares) pelo convite.
 
 ---
