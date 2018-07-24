@@ -72,7 +72,7 @@ Mas também mudei meu relacionamento comigo mesmo. Eu tive uma experiência em S
 
 Minhas atividades também mudaram. Eu não estava estudando porque as pessoas me disseram que eu deveria ou não estava trabalhando porque precisava de um emprego. Eu estava realmente fazendo coisas que, primeiro, eram voluntárias, no sentido de que eu escolhi fazê-las (o que não significa que elas não sejam pagas!). Eu estava fazendo coisas que eu achava proposital, o que significa que eu estava lá trabalhando, eu estava lá colocando meu tempo em algo, mas isso não parecia um fardo. Era algo que estava me dando algo de volta, maior do que o que eu estava realmente dando a ele. Comecei a ver as coisas como jornadas, aprendendo, crescendo. Isso tem sido fundamental para todas as coisas que estão acontecendo na minha vida.
 
-## objetivos
+## Objetivos
 
 Eu também mudei meus objetivos. Agora, eu não me esforço mais para ser rico, o que foi uma ideia em algum momento. Eu me esforço para encontrar padrões de organização coletiva que nos tornem resilientes para enfrentar todas essas mudanças que estão chegando a nós. Padrões de adaptação, provenientes da teoria evolucionária, que nos farão adaptar a todas essas mudanças. Eu também tive esse objetivo de aprender, não importa o que eu faça, mesmo com erros - é quando você aprende mais.
 
