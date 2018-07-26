@@ -13,9 +13,15 @@ toc_label: "Navegando"
 toc_icon: "assistive-listening-systems"
 ---
 
+## Episódio 6 - Estação Experimental Glocal para Ciências Abertas & Tecnologias Sociais P2P
+
+<iframe src="https://anchor.fm/radio-emergir/embed/episodes/Estao-Experimental-Glocal-para-Cincias-Abertas--Tecnologias-Sociais-P2P-e1pedd" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+
+Uma conversa com Vinícius Braz Rocha ao som de Andreas Vollenweider sobre (-) as rupturas já visíveis nas atuais macro-narrativas que guiam muito do que entendemos por sociedade (-) a complexidade como movimentação entre as diferentes infinitas camadas de uma Matryoshka e (-) as emergentes não-institucionalidades como a E2GLATS.
+
 ## Episódio 5 - Como Lidar com o Futuro Emergente - Teoria U com Alessandra Bernardo
 
-<iframe src="https://anchor.fm/radio-emergir/embed/episodes/Como-Lidar-com-o-Futuro-Emergente---Teoria-U-com-Alessandra-Bernardo-e1nus2" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/radio-emergir/embed/episodes/Como-Lidar-com-o-Futuro-Emergente---Teoria-U-com-Alessandra-Bernardo-e1nus2" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
 Neste episódio da Rádio Emergir, [Alessandra Bernardo](https://www.emergir.co/descubraseemrede/) - Engenheira de Produção [e de pessoas] - compartilha os seus conhecimentos e práticas sobre a Teoria U, um framework para lidar com o futuro que emerge co-desenvolvido por Otto Scharmer, escritor e professor do MIT. Hoje a [Teoria U](http://co-labore.net/teoria-u-um-caminho-para-inovacao-e-lideranca/) é explorada em rede e presencialmente ao redor do mundo por todo tipo de organizações e indivíduos, tendo seus esforços coordenados pelo [Presencing Institute](https://www.presencing.org/).
 
