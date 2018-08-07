@@ -57,30 +57,6 @@ feature_row2:
 
 {% include feature_row id="intro" type="center" %}
 
-<!-- Typed.js -->
-<script src="/js/jquery-1.11.2.min.js"></script>
-<script src="/js/typed.js" type="text/javascript"></script>
-<script>
-  $(function(){
-    $(".typed").typed({
-      strings: ["Sistêmica.","Cultural.","Científica.","Social.","Tecnológica."],
-      typeSpeed: 100,
-      loop: true,
-      backDelay: 4800
-    });
-  });
-</script>
-
-<div class="typed-js-hide">
-  <div class="row">
-    <div class="col-sm-16">
-      <div class="text-center" style="color: #444">
-          <h1>Adaptação à Complexidade <span class="typed" style="color:#008080";></span></h1>
-      </div>
-    </div>
-  </div>
-</div>
-
 # Conteúdo do Portal
 &nbsp;
 
