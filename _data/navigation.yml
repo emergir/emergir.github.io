@@ -4,9 +4,9 @@ main:
   - title: "Artigos"
     url: "/categorias/artigos/"
   - title: "Rádio Emergir"
-    url: "/categorias/podcast/"
-  - title: "Cursos"
-    url: /cursos/
+    url: "https://anchor.fm/radio-emergir"
+  - title: "Vídeos"
+    url: "https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw"
   - title: "Sobre"
     url: /sobre/
 #  - title: "Flocking"

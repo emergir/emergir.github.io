@@ -39,9 +39,9 @@ feature_row:
     btn_class: "btn--facebook"
 
   - image_path: /img/bckgrnd/cursos.png
-    title: "Cursos"
+    title: "Vídeos"
     excerpt: "Vídeos sobre modelos cognitivos, teorias e tecnologias para um mundo de interdependências."
-    url: "/cursos/"
+    url: "https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw"
     btn_label: "Explorar"
     btn_class: "btn--success"
 
