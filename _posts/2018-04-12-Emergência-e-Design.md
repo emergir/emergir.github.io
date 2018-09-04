@@ -6,6 +6,7 @@ header:
   teaser: /img/postagens/daniel/bckground.jpeg
 categories:
   - Artigos
+  - Traduções
 tags:
   - Design
   - Emergência

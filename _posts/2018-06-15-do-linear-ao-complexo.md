@@ -6,6 +6,7 @@ header:
   teaser: /img/postagens/linear_to_complex/cover.png
 categories:
   - Artigos
+  - Traduções
 tags:
   - Complexidade
 ---

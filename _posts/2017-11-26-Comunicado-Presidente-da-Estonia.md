@@ -6,6 +6,7 @@ header:
   teaser: /img/postagens/estonia/Flag_of_Estonia.png
 categories:
   - Artigos
+  - Traduções
 tags:
   - Estônia
   - Estado Digital

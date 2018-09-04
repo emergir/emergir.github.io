@@ -5,10 +5,11 @@ header:
   video:
     id: mgK8QFYdbNk
     provider: youtube
-  teaser: "/img/postagens/bckgrnd/emergencia.jpeg"
+  teaser: "/img/postagens/emergencia.jpeg"
 categories:
   - Artigos
   - Palestras
+  - Traduções
 tags:
   - Complexidade
   - Emergência
@@ -18,7 +19,7 @@ author:
 ---
 
 Em fevereiro de 2018, participei como palestrante do TEDxYouth em Maastricht, Holanda, com a temática *Shift the Paradigm* ("Mude o Paradigma"). Ali, tive a oportunidade de contextualizar muitas das mudanças de paradigma recentes na minha vida, e como elas estão relacionadas com algumas percepções pessoais sobre o momento em que vivemos. Aqui encontra-se a tradução da minha fala.
-Obrigado [Luana](https://www.facebook.com/luana.marquessoares) pelo convite.
+Obrigado [Luana](https://www.facebook.com/luana.marquessoares) pelo convite. Obrigado Marion por transcrever o texto da conversa.
 
 ---
 

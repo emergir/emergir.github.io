@@ -6,6 +6,7 @@ header:
   teaser: "https://cdn-images-1.medium.com/max/1600/1*aiGZstmng76GGVnC3bU4nA.png"
 categories:
   - Artigos
+  - Traduções
 tags:
   - Design
   - Evolução

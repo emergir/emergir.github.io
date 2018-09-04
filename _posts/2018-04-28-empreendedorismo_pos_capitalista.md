@@ -8,6 +8,7 @@ header:
 classes: wide
 categories:
   - Artigos
+  - Traduções
 tags:
   - Empreendedorismo
   - Blockchain

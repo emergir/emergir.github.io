@@ -33,7 +33,7 @@ feature_row:
 
   - image_path: /img/bckgrnd/radio.png
     title: "Rádio Emergir"
-    excerpt: "Conversas com pessoas que lidam com a complexidade diariamente, na prática."
+    excerpt: "Conversas sobre inovações que inspiram e criam um mundo de maior resiliência."
     url: "https://anchor.fm/radio-emergir"
     btn_label: "Explorar"
     btn_class: "btn--facebook"
@@ -49,7 +49,7 @@ feature_row2:
 
 - image_path: /img/ismapa/ismapa3.png
   title: "ISMAPA"
-  excerpt: "Mapeamento e Análise da Rede de Bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos ([Ismart](http://www.ismart.org.br/))."
+  excerpt: "Mapeamento e Análise da Rede de bolsistas do Instituto Social para Motivar, Apoiar e Reconhecer Talentos ([Ismart](http://www.ismart.org.br/))."
   url: "/ismapa/"
   btn_label: "Explorar"
   btn_class: "btn--info"
