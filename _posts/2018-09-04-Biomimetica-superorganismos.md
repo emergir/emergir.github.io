@@ -14,10 +14,8 @@ tags:
   - Fungos
 ---
 
-[Inhabitat](https://inhabitat.com/) é um site de disseminação de informações sobre design verde & sustentável.
-> "O site é dedicado ao futuro do design, tecnologia inovadora e quaisquer projetos arquitetônicos ou conceitos que enfatizem a eficiência energética, sustentabilidade e conexão com o meio ambiente."
+[Inhabitat](https://inhabitat.com/) é um site de disseminação de informações sobre design verde & sustentável. Como parte de seu editorial, eles criaram uma série sobre Biomimética. Isto é, a prática de se buscar inspiração para o design de produtos, serviços e sistemas da Natureza. Esta série se chama [O Manual da Biomimética](https://inhabitat.com/design/the-biomimicry-manual/) e nós do Emergir achamos importante traduzir um de seus textos essenciais, escrito pela bióloga evolucionária Dr. Tamsin Woolley-Barker. Confira o resultado abaixo.
 
-Como parte de seu editorial, eles criaram uma série sobre Biomimética. Isto é, a prática de se buscar inspiração para o design de produtos, serviços e sistemas da Natureza. Esta série se chama [O Manual da Biomimética](https://inhabitat.com/design/the-biomimicry-manual/) e nós do Emergir achamos importante traduzir um de seus textos essenciais, escrito pela bióloga evolucionária Dr. Tamsin Woolley-Barker. Confira o resultado abaixo.
 ---
 
 # Manual de Biomimética: O Que Os Superorganismos Podem Nos Ensinar Sobre Colaboração?
