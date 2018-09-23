@@ -3,7 +3,7 @@ title: "Emergir completa uma volta em torno do Sol"
 permalink: /1AnoEmergir/
 header:
   image: /img/postagens/1Ano/Screenshots/shutterstock_67233826 copy.jpg
-  teaser: /img/postagens/Screenshots/shutterstock_67233826 copy.jpg
+  teaser: /img/postagens/1Ano/Screenshots/shutterstock_67233826 copy.jpg
   caption: shutterstock_67233826
 categories:
   - Artigos
