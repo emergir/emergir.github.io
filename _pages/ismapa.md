@@ -47,7 +47,7 @@ Também é importante deixar claro que o ISMAPA não é uma representação fide
 
 ## Aprendizados
 
-A realização do ISMAPA foi um processo que demandou bastante energia, com uma considerável mobilização para coleta e processamento de dados da comunidade de bolsistas do Ismart. Recebemos mais de 700 respostas, o que nos mostrou o poder de uma boa estratégia de comunicação (feita principalmente for e-mail) em uma comunidade tão grande. Neste sentido, fica um agradecimento especial ao bolsistas Ismart [João Pedro Oliveira](https://www.facebook.com/pedrojoao.oliveira) pela grande ajuda com a produção de mídias gráficas e a comunicação do projeto.
+A realização do ISMAPA foi um processo que demandou bastante energia, com uma considerável mobilização para coleta e processamento de dados da comunidade de bolsistas do Ismart. Recebemos mais de 700 respostas, o que nos mostrou o poder de uma boa estratégia de comunicação (feita principalmente por e-mail) em uma comunidade tão grande. Neste sentido, fica um agradecimento especial ao bolsistas Ismart [João Pedro Oliveira](https://www.facebook.com/pedrojoao.oliveira) pela grande ajuda com a produção de mídias gráficas e a comunicação do projeto.
 
 [Gráfico enviado à comunidade para a coleta de dados](/img/ismapa/baner.png)
 
