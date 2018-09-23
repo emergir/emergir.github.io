@@ -2,7 +2,7 @@
 title: "Emergir completa uma volta em torno do Sol"
 permalink: /1AnoEmergir/
 header:
-  image: /img/postagens/Screenshots/shutterstock_67233826 copy.jpg
+  image: /img/postagens/1Ano/Screenshots/shutterstock_67233826 copy.jpg
   teaser: /img/postagens/Screenshots/shutterstock_67233826 copy.jpg
   caption: shutterstock_67233826
 categories:
@@ -13,39 +13,39 @@ author:
   Danilo Vaz
 toc: true
 gallery:
-  - url: /img/postagens/Screenshots/Screen Shot 2017-08-05 at 2.44.14 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2017-08-05 at 2.44.14 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2017-08-05 at 2.44.14 PM.png
     alt: "08/05/2017"
     title: "Versão 1.0"
-  - url: /img/postagens/Screenshots/Screen Shot 2017-08-07 at 4.58.11 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2017-08-07 at 4.58.11 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2017-08-07 at 4.58.11 PM.png
     alt: "07/08/2017"
     title: "Versão 1.1"
-  - url: /img/postagens/Screenshots/Screen Shot 2017-08-07 at 4.58.29 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2017-08-07 at 4.58.29 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2017-08-07 at 4.58.29 PM.png
     alt: "07/08/2017"
     title: "Elucidário"
-  - url: /img/postagens/Screenshots/Screen Shot 2017-09-15 at 2.38.46 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2017-09-15 at 2.38.46 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2017-09-15 at 2.38.46 PM.png
     alt: "15/09/2017"
     title: "Versão 1.2"
-  - url: /img/postagens/Screenshots/Screen Shot 2017-09-15 at 8.53.15 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2017-09-15 at 8.53.15 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2017-09-15 at 8.53.15 PM.png
     alt: "15/09/2017"
     title: "Versão 1.3"
-  - url: /img/postagens/Screenshots/Screen Shot 2017-09-21 at 3.21.54 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2017-09-21 at 3.21.54 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2017-09-21 at 3.21.54 PM.png
     alt: "21/09/2017"
     title: "Versão 1.4"
-  - url: /img/postagens/Screenshots/Screen Shot 2018-01-21 at 6.34.40 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2018-01-21 at 6.34.40 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2018-01-21 at 6.34.40 PM.png
     alt: "21/01/2018"
     title: "Versão 2.0"
-  - url: /img/postagens/Screenshots/Screen Shot 2018-01-30 at 2.15.55 PM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2018-01-30 at 2.15.55 PM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2018-01-30 at 2.15.55 PM.png
     alt: "30/01/2018"
     title: "Versão 2.1"
-  - url: /img/postagens/Screenshots/Screen Shot 2018-06-04 at 11.18.11 AM.png
+  - url: /img/postagens/1Ano/Screenshots/Screen Shot 2018-06-04 at 11.18.11 AM.png
     image_path: /img/postagens/Screenshots/Screen Shot 2018-06-04 at 11.18.11 AM.png
     alt: "04/06/2018"
     title: "Versão 2.1"
