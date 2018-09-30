@@ -198,6 +198,8 @@ Her, DD, Michael, thank you very very much for having given me shelter when I wa
 
 Danilo, obrigado também pelo acolhimento e por todas as lições que você me ensinou na Coréia. Os dias de treinamento foram e continuam sendo essenciais para tudo que emergiu daquele período em diante.
 
+Gui, também preciso colocar aqui a minha gratidão por você ter me ajudado com uma situação financeira tão delicada logo no início dessa aventura toda. Você ter me vendido aqueles bitcoins fiado até eu ter conseguido resolver a situação com o terrível sistema do Bradesco foi essencial. Muito obrigado mesmo!
+
 Luana, muito obrigado por ter me convidado para participar do TEDxYouth@Maastricht. Esse evento foi um marco na minha vida, e me fez refletir sobre vários aspectos das dinâmicas da minha vida. Valeu mesmo. Também pela ajuda na surpresa!
 
 Joe, thank you for having shared the piece I wrote on Cultural Design to your network. That action opened up flows in my way that I couldn't even conceive. Thank you!
