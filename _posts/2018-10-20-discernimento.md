@@ -118,7 +118,8 @@ A ideia de inteligência coletiva é a ideia de reunir as mentes e as ferramenta
 Outro aspecto importante dessa inteligência coletiva é o potencial para resolver outro problema fundamental, que Schmachtenberger descreve de maneira tão eloquente. É o problema que criamos retirando o contexto de um objeto ou problema e usando métricas simples para atribuir valor a ele. O próprio exemplo dele serve perfeitamente para ilustrar o problema: se você vir uma árvore em uma floresta, seu valor real pode ser descrito dentro do seu amplo contexto ecológico. Por exemplo, o ciclo de CO2 e oxigênio, o abrigo para pássaros e outros polinizadores, a proteção do solo superficial, a formação de relações simbióticas com fungos sob o solo, entre várias outras coisas. Nós, humanos, podemos derrubar a árvore e ver seu valor em termos de quantas tábuas de madeira ela produz, e seu valor de preço na cadeia de fornecedores. Mas isso estaria usando as métricas erradas para nivelar o complexo valor real das árvores. Você pode chamar isso de miopia e ganância, e isso estaria correto. Mas o importante a ser lembrado aqui é que construir mais inteligência coletiva, unir mentes com habilidades diferentes, mas complementares, e agregar riqueza e dimensionalidade aos dados podem nos ajudar a ver e entender o valor real de muitas coisas, bem como o quão profundamente estamos [interconectados](https://upliftconnect.com/science-of-interconnectedness/) a essas coisas.
 
 Isso também nos ajudará a transcender nossa percepção limitada, estruturas de pensamento, e modelos ultrapassados de realidade, para finalmente começarmos a entender melhor nossas responsabilidades, a extensão da nossa pegada neste planeta e, esperançosamente, começarmos a mudar os métodos que usamos para nos salvarmos da autodestruição e seguirmos em frente como espécie.
----
+
+___
 
 # Gostou do que leu?
 
