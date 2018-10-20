@@ -37,7 +37,8 @@ Em outras palavras, existe uma dissonância entre nosso mundo em constante mudan
 
 O foco deste artigo é, na verdade, a falta de discernimento (*sense-making*) das coisas, quais algumas causas dessa falta na minha visão, e algumas ideias sobre possíveis cenários futuros que podem nos ajudar a sair desse ímpeto em direção à autodestruição.
 
-["Extinção em massa, incêndios espontâneos, seca severa: os próximos 100 anos”. Quando o ambiente de um sistema inteligente é incompatível com sua realidade interna, uma crise surge.](https://upliftconnect.com/wp-content/uploads/2018/01/DoomSigns-1.jpg)
+![imagem1](https://upliftconnect.com/wp-content/uploads/2018/01/DoomSigns-1.jpg)
+"Extinção em massa, incêndios espontâneos, seca severa: os próximos 100 anos”. Quando o ambiente de um sistema inteligente é incompatível com sua realidade interna, uma crise surge.
 
 ## Saia do meu ciclo!
 
@@ -47,7 +48,8 @@ Existem camadas e camadas de ciclos de feedback, desde a expressão gênica e ma
 
 Não é surpresa que nosso condicionamento social, profundo e baseado no medo, opere em sistemas de ciclos de feedback aninhados uns sobre os outros e encontrados em diferentes áreas como linguagem, escolarização, sistemas de recompensa e punição, normas culturais, leis e regulamentos, etc. Alguns desses sistemas hackeam e exploram ciclos de feedback mais específicos, como os ciclos de feedback de adrenalina e cortisol ou o ciclo de dopamina em nosso cérebro. Por exemplo, é sabido que o Facebook e outras plataformas de mídia social criaram interfaces de usuário e interações cuidadosamente projetadas para explorar os ciclos de feedback baseados na dopamina, o que acaba criando dependências da mesma forma em que dependências por pornografia e álcool são criadas. Isso cria um tipo de sistema de recompensa de feedback rápido (também conhecido como gratificação instantânea) usando a liberação de dopamina no cérebro, que é essencialmente o neurotransmissor responsável pela sensação de "sentir-se bem".
 
-[O Facebook usa um ciclo de feedback que nos atrai com a promessa de gratificação instantânea](https://upliftconnect.com/wp-content/uploads/2018/01/FacebookGraffiti.jpg)
+![Imagem2](https://upliftconnect.com/wp-content/uploads/2018/01/FacebookGraffiti.jpg)
+O Facebook usa um ciclo de feedback que nos atrai com a promessa de gratificação instantânea
 
 Imagine o seguinte cenário: um adolescente está passando pela típica fase de se sentir sozinho e de precisar ser aprovado/aceito por seu grupo, ou dentro de um determinado grupo social. Ele/ela começa a curar imagens e vídeos cuidadosamente pensados e escolhidos a dedo que retratam o jovem como uma persona ou alter-ego que se encaixa melhor dentro das normas desse grupo social. Algumas curtidas, comentários ou mensagens chegam e uma liberação instantânea de dopamina é acionada, fazendo o jovem “sentir-se bem”, digno, ou aceito. A mesma coisa pode acontecer quando o mesmo adolescente está vendo modelos encenando vídeos e fotos de uma vida ou estilo de vida ideal (mas grosseiramente inautêntico).  É a mesma liberação de dopamina reforçando o ciclo até que um padrão de dependência seja formado.
 
@@ -57,7 +59,8 @@ Agora, tenha em mente que estamos falando de uma área específica de comunicaç
 
 E aqui está outra coisa interessante: depois da disseminação das mídias sociais, as pessoas estão ficando cada vez mais ansiosas por pequenos pedaços de mídia. Nós não lemos mais livros ou artigos longos. A duração da nossa atenção encolheu para algo entre trinta segundos e dois minutos. Queremos que tudo, não importa o quão complexo seja, seja explicado em clipes legendados de qualidade 4K de dois minutos no máximo; caso contrário, ficaremos entediados e pensaremos que o mundo é incrivelmente complexo demais para lidarmos com ele. Isso, porém, não é o ponto final. Outras agências de mídia, redes, e operadoras entenderam tudo isso e querem usar esses fatores a favor deles, já que não querem ficar de fora dessa exploração neurológica de gratificação instantânea e atenção curta. Ontem à noite, eu estava em casa com a TV ligada em um canal para crianças, e fiquei surpreso ao ver que o canal estava mostrando animações e outros tipos de entretenimento infantil em “formato de mídia social” - ou seja, eles estavam bombardeando as crianças com clipes minúsculos de dois a cinco minutos (às vezes menores que dois minutos), um após o outro. "Isso é pior do que eu pensava", eu disse para mim mesmo.
 
-[As mídias sociais nos exploram e direcionam nosso pensamento.](https://upliftconnect.com/wp-content/uploads/2018/01/HeadsInBoxes.jpg)
+![Imagem3](https://upliftconnect.com/wp-content/uploads/2018/01/HeadsInBoxes.jpg)
+As mídias sociais nos exploram e direcionam nosso pensamento.
 
 É claro que os comerciais de televisão aprenderam a fazer isso há muito tempo, devido ao tempo mais curto na tela e ao aumento das regulamentações. Eles aprenderam todos os meandros da comunicação não-verbal, mecanismos de indução hipnótica, e todas as maneiras pelas quais alguém pode hackear o sistema límbico e o [cérebro reptiliano](https://upliftconnect.com/make-friends-reptilian-brain/), a fim de subliminarmente nos fazer executar alguma ação.
 
@@ -71,7 +74,8 @@ Pode-se também fixar isso em um cenário sócio-político mais amplo. Como Schm
 
 Resumindo: com tanta mídia lixo competindo por nossa atenção através de hacks dos nossos feedbacks neurais, desinformação e notícias falsas, canais de comunicação cheios de interferências, diminuição da nossa atenção e a desconexão profunda dos problemas e prioridades do mundo real, como diabos podemos compreender e criar informações [significativas](https://upliftconnect.com/remember-the-meaning-of-life/) do mundo ao nosso redor? Como podemos modelar nossa realidade com precisão e criar informações coerentes que nos levam a sair dessa hipnose em massa, e continuar trabalhando em soluções para salvar nossa própria biosfera, nosso futuro? Como podemos tirar nossos narizes de nossas telas para perceber que existe uma realidade fora da mídia de dois minutos, e, se não modelarmos essa realidade, muitas coisas ruins estão prestes a acontecer?
 
-[Como podemos nos libertar dessa hipnose em massa e nos salvar?](https://upliftconnect.com/wp-content/uploads/2018/01/GirlPrisonCell.jpg)
+![Imagem4](https://upliftconnect.com/wp-content/uploads/2018/01/GirlPrisonCell.jpg)
+Como podemos nos libertar dessa hipnose em massa e nos salvar?
 
 ## Os Três Pilares da Compreensão
 
@@ -89,7 +93,8 @@ Quando analisamos qualquer dado a partir de nossa realidade, nós o interpretamo
 
 Todo sistema inteligente e adaptativo tem motivação - um conjunto de regras e diretrizes que entram em ação sempre que percebem e interpretam certas informações ao nosso redor. Por exemplo, percebo que meus esforços artísticos estão dando certos resultados, que interpreto como o desabrochar da minha vida criativa, e que, por sua vez, me motivam a intensificar e concentrar mais esforços nela. Existe uma certa motivação, algo que me coloca em ação, sempre que certas informações são registradas. Assim, percepção, interpretação, e motivação trabalham de mãos dadas.
 
-[Percepção, interpretação, e motivação trabalham de mãos dadas.](https://upliftconnect.com/wp-content/uploads/2017/05/SelfMotivationFeature.jpg)
+![Imagem5](https://upliftconnect.com/wp-content/uploads/2017/05/SelfMotivationFeature.jpg)
+Percepção, interpretação, e motivação trabalham de mãos dadas.
 
 Agora, nossa percepção já é manipulada através da hipnose em massa induzida por todos os mecanismos mencionados acima. Precisamos recuperar nossa atenção e nosso foco. Precisamos começar a fazer isso de um jeito simples e mundano. Por exemplo, precisamos gastar menos tempo na frente de nossas telas e nos engajar em conversas mais significativas. Ler livros ou artigos longos. Filtrar informações de forma mais inteligente. Interagir mais com pessoas fora do nosso círculo. Aprender algo novo sempre que pudermos.
 
@@ -101,7 +106,8 @@ Quanto à motivação, acredito que temos a motivação inerente para prosperar 
 
 Este é um conceito complicado de explicar dentro dos limites de um artigo, mas vou tentar da forma mais fluida e concisa possível. Estamos entrando em uma fase em que nossa tecnologia está crescendo exponencialmente, e, juntamente com nossa falta de sabedoria, além de uma consciência coletiva ainda em evolução, ela está criando uma receita certa para o desastre. No entanto, se certas etapas forem executadas com estratégia e cuidado, certas [tecnologias](https://upliftconnect.com/i-dont-do-technology-i-am-technology/) também poderão ser nossa última chance de evitar o colapso total ou a autodestruição. Isso tem a ver com um tipo de tecnologia específica que nos ajudará a interpretar informações mais significativas e a perceber coisas que, de outra forma, não poderíamos ver, mesmo colaborando uns com os outros. Duas das principais tecnologias que podem nos ajudar são as chamadas "Internet das Coisas" (IoT) e Inteligência Artificial (A.I.)  - embora o último seja uma faca de dois gumes, e possa facilmente acabar no lado errado.
 
-[Podemos ver um novo mundo cheio de potencial se nos conectarmos à "Internet das Coisas".](https://upliftconnect.com/wp-content/uploads/2018/01/InternetOfThings-1.jpg)
+![Imagem6](https://upliftconnect.com/wp-content/uploads/2018/01/InternetOfThings-1.jpg)
+Podemos ver um novo mundo cheio de potencial se nos conectarmos à "Internet das Coisas".
 
 Nos dias de hoje, a internet que usamos é basicamente uma conexão de texto, documentos, vídeos, e outros recursos multimídia, juntamente com camadas de protocolo de comunicação e aplicativos como e-mail, bate-papo, conferências de voz e vídeo, etc. Ela cresceu exponencialmente em termos de infra-estrutura, ou seja, em número de conexões e velocidade, mas ainda não experimentamos um salto quântico na forma como a internet será usada.
 
@@ -111,7 +117,8 @@ Outra coisa que é relevante para compreender melhor os dados e criar informaç�
 
 No caso de unir as pessoas, este é um exemplo claro de algo que não podemos ver do nosso ponto de vista. Agentes inteligentes, juntamente com camadas preciosas de dados, podem trazer uma nova dimensionalidade para pontos cegos em informações valiosas. Por exemplo, um sistema de inteligência coletiva poderia - através do “deep learning” - entender, além dos critérios convencionais e canais através dos quais pessoas e habilidades são geralmente reunidas, quais indivíduos com certas características e peculiaridades são uma combinação perfeita para colaborar em um determinado problema. Em vez de você encontrar o time certo, o time certo é levado até você. Tente ver isso como uma nova associação de pessoas ou tribos que não seriam possíveis de serem formados se víssemos as coisas de maneira convencional.
 
-[Um sistema de inteligência coletiva poderia combinar as pessoas certas para resolver problemas.](https://upliftconnect.com/wp-content/uploads/2018/01/PeopleInOffice.jpg)
+![Imagem7](https://upliftconnect.com/wp-content/uploads/2018/01/PeopleInOffice.jpg)
+Um sistema de inteligência coletiva poderia combinar as pessoas certas para resolver problemas.
 
 A ideia de inteligência coletiva é a ideia de reunir as mentes e as ferramentas corretas dentro de um espaço compartilhado de percepção e compreensão do que são os problemas e os objetivos. Agora, é claro, esse é o lado pragmático disso, pois, na verdade, uma inteligência coletiva poderia servir a infinitas possibilidades e potencialidades. Mas o que é importante para nós é que isso é uma maneira poderosa de transcender nossas visões limitadas, incoerências, e pontos cegos.
 
