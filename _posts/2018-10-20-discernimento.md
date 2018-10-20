@@ -1,5 +1,5 @@
 ---
-title: "Esta difícil discernir sobre o mundo?"
+title: "Está difícil discernir sobre o mundo?"
 permalink: /discernimento/
 header:
   image: "/img/postagens/discernimento/banner.png"
