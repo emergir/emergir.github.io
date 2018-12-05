@@ -84,12 +84,12 @@ feature_row3:
 
 {% include feature_row %}
 
-# Animações em Rede (Netweaving)
-&nbsp;
-
-{% include feature_row id="feature_row3" type="right" %}
-
 # Projetos
 &nbsp;
 
 {% include feature_row id="feature_row2" type="left" %}
+
+# Animações em Rede (Netweaving)
+&nbsp;
+
+{% include feature_row id="feature_row3" type="right" %}
