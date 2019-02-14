@@ -17,7 +17,7 @@ author:
 
 Em seu livro "Designing Regenerative Cultures", o autor e consultor estratégico Daniel Christian Wahl explora as implicâncias do momento de intensas transformações que vivemos; como podemos encontrar inspiração em nossa própria essencial Natural para devir neste contexto; e reune exemplos de práticas que já estão regenerando e transformando ambientes pelo mundo.
 
-Durante Março de 2019 [Daniel estará no Brasil para uma série de atividades e workshops](https://www.designregenerativo.org/) facilitadas pelo cluster de [Design Regenerativo](https://www.facebook.com/groups/design.social.regenerativo/). E juntamente com a vinda do Daniel, a [Bambual Editora](https://www.bambualeditora.com/?fbclid=IwAR3ZXESxx9Vp7jZu9VBuypM-Jd9fAEVwd_n2Ap6LwEUnaEdUWT0kYd0ZUO8) está viabilizando a tradução de seu livro para o Português, permitindo que suas ideias se espalhem ainda mais por aqui.
+Durante o final de Março de 2019 [Daniel estará no Brasil para uma série de atividades e workshops](https://www.designregenerativo.org/) facilitadas pelo cluster de [Design Regenerativo](https://www.facebook.com/groups/design.social.regenerativo/). E juntamente com a vinda do Daniel, a [Bambual Editora](https://www.bambualeditora.com/?fbclid=IwAR3ZXESxx9Vp7jZu9VBuypM-Jd9fAEVwd_n2Ap6LwEUnaEdUWT0kYd0ZUO8) está viabilizando a tradução de seu livro para o Português, permitindo que suas ideias se espalhem ainda mais por aqui.
 
 Alguns dos textos que compõem o livro, como este, foram traduzidos como publicações no Emergir e estão sendo publicados como forma de animar e energizar ainda mais essa vinda dele e a viabilização do seu livro em Português 🦋 Usaremos a #danielwahlnobr nas redes sociais para marcar essa agitação.
 
