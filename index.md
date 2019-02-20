@@ -75,6 +75,13 @@ feature_row3:
   url: "https://kumu.io/emergir/rede-emergir#nos-clusteres"
   btn_label: "Explorar"
   btn_class: "btn--primary"
+
+- image_path: /img/agitacao/co-criacao.jpg
+  title: "Co-criação Emergente"
+  excerpt: "Co-criação em rede aberta da apresentação para o evento [Systems Innovation](https://systemsinnovation.io/si-2019/) organizado pela Complexity Labs em Barcelona, Março de 2019."
+  url: "https://www.youtube.com/watch?v=9WqjF0fQ8Co&list=PLY3xJBJiGnL5MxrupZ07LVHDijFfpWG6p"
+  btn_label: "Explorar"
+  btn_class: "btn--facebook"
 ---
 
 {% include feature_row id="intro" type="center" %}
