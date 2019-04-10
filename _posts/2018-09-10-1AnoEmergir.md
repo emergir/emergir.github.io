@@ -162,7 +162,7 @@ Um segundo passo nessa experimentação em rede foi [criar um sistema colaborati
 
 ### Grupo do WhatsApp
 
-Por último, um salto quântico nessas experimentações em rede foi a criação do [Grupo de WhatsApp do Emergir](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb). Depois de uma experimentação com um [ponto de contato no Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA) que não foi muito adotado - talvez por que esse app não está instalado no telefone da maioria das pessoas - eu criei um grupo do WhatsApp e a adesão foi e continua sendo supreendende. Já com as primeiras pessoas que eu adicionei, os fluxos de conversas e materiais foi intenso. Mas conforme mais pessoas foram chegando - adicionadas por outras pessoas ou seguindo o link do grupo - os fluxos se intensificaram de uma forma surpreendente. A qualidade das conversas e trocas é surpreendente e eu fico muito feliz de poder interagir com pessoas tão incríveis. Pessoas que estão realmente explorando as fronteiras daquilo que acreditamos que sabemos de forma a expandir a nossa capacidade de intenção, percepção e ação no mundo. Chega junto lá ;)
+Por último, um salto quântico nessas experimentações em rede foi a criação do [Grupo de WhatsApp do Emergir](https://chat.whatsapp.com/LXx9lFet4j3Gis9tTBEKig). Depois de uma experimentação com um [ponto de contato no Telegram](https://t.me/joinchat/F8MHBxDcG-_oaQ82DMKvYA) que não foi muito adotado - talvez por que esse app não está instalado no telefone da maioria das pessoas - eu criei um grupo do WhatsApp e a adesão foi e continua sendo supreendende. Já com as primeiras pessoas que eu adicionei, os fluxos de conversas e materiais foi intenso. Mas conforme mais pessoas foram chegando - adicionadas por outras pessoas ou seguindo o link do grupo - os fluxos se intensificaram de uma forma surpreendente. A qualidade das conversas e trocas é surpreendente e eu fico muito feliz de poder interagir com pessoas tão incríveis. Pessoas que estão realmente explorando as fronteiras daquilo que acreditamos que sabemos de forma a expandir a nossa capacidade de intenção, percepção e ação no mundo. Chega junto lá ;)
 
 ### Mapeamento da rede
 
@@ -206,7 +206,7 @@ Joe, thank you for having shared the piece I wrote on Cultural Design to your ne
 
 # Gostou do que leu?
 
-Então chegue junto e participe das trocas e conversas no nosso ponto de contato no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
+Então chegue junto e participe das trocas e conversas no nosso ponto de contato no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/LXx9lFet4j3Gis9tTBEKig){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">

@@ -66,7 +66,7 @@ Suspeito que, no futuro, pelo menos o futuro que espero ver, vamos testemunhar c
 
 # Gostou do que leu?
 
-Então chegue junto e participe das trocas e conversas no nosso ponto de contato no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/4DzwqHLNBkMJ8gCQ3MEeLb){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
+Então chegue junto e participe das trocas e conversas no nosso ponto de contato no [<i class="fab fa-whatsapp"></i> WhatsApp](https://chat.whatsapp.com/LXx9lFet4j3Gis9tTBEKig){: .btn .btn--success} e/ou se inscreva na nossa Newsletter:
 
 <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
