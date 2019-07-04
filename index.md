@@ -1,5 +1,5 @@
 ---
-title: "Adaptação à Complexidade"
+title: "Em dança com a Complexidade"
 layout: splash
 classes:
   - landing
@@ -9,9 +9,9 @@ header:
   overlay_filter: "0.2"
   overlay_image: /img/155422796.jpeg
   cta_url: "https://www.youtube.com/watch?v=rWJ4O70-Kr4"
-  cta_label: "Como assim?"
+  cta_label: "Veja mais"
   caption:
-excerpt: 'Emergir refere-se ao "surgimento de novas estruturas, padrões e propriedades coerentes durante o processo de auto-organização em sistemas complexos." [*Jeffrey Goldstein*](http://www.anecdote.com/pdfs/papers/EmergenceAsAConsutructIssue1_1_3.pdf)'
+excerpt: 'Em devir paradoxal, Todo e partes aninham-se em unidade. Desta interativa organização iterativa, emerge todo o tipo de sorte, que flui de forma imprevisível e incontrolável.'
 
 intro:
   - image_path:
