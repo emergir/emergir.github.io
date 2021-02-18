@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2018-05-19-As_princps_caracts_do_pensmt_sistmc.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -72,8 +69,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "2018-05-19-As_princps_caracts_do_pensmt_sistmc.md",
+    "2018-09-10-1AnoEmergir.md",
     "2017-10-16-Por-que-Emergir.md",
-    "Untitled.md"
+    "2018-01-10-Design-Cultural.md",
+    "2018-03-28-O-que-faço-enquanto-o-mundo-se-auto-organiza?.md",
+    "2018-05-19-As_princps_caracts_do_pensmt_sistmc.md"
   ]
 }

@@ -16,7 +16,7 @@ excerpt: 'Em devir paradoxal, Todo e partes aninham-se em unidade. Desta interat
 intro:
   - image_path:
     excerpt: '[<i class="fas fa-envelope"></i>](https://emergir.us16.list-manage.com/subscribe/post?u=28e41725851da04e2014a8180&id=06c739eed3){: .btn .btn--info}
-    [<i class="fab fa-whatsapp-square"></i>](https://chat.whatsapp.com/LXx9lFet4j3Gis9tTBEKig){: .btn .btn--success}
+    [<i class="fab fa-whatsapp-square"></i>](https://chat.whatsapp.com/IY2HfBHBxNZK331TckdGDi){: .btn .btn--success}
     [<i class="fab fa-twitter"></i>](https://twitter.com/emergir_co){: .btn .btn--twitter}
     [<i class="fab fa-facebook"></i>](https://www.facebook.com/emergir.co){: .btn .btn--facebook}
     [<i class="fab fa-youtube"></i>](https://www.youtube.com/channel/UCLQTZai_e6JmMf1Mr7ZG_Xw){: .btn .btn--danger}'
